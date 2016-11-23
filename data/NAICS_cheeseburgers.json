@@ -1,0 +1,4248 @@
+[
+    [
+        "Agriculture, forestry, fishing, and hunting", 
+        "Farms", 
+        392452.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Agriculture, forestry, fishing, and hunting", 
+        "Forestry, fishing, and related activities", 
+        54278.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Farms", 
+        "Oilseed farming", 
+        35521.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Farms", 
+        "Grain farming", 
+        62106.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Farms", 
+        "Vegetable and melon farming", 
+        20758.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Farms", 
+        "Fruit and tree nut farming", 
+        30346.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Farms", 
+        "Greenhouse, nursery, and floriculture production", 
+        18225.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Farms", 
+        "Other crop farming", 
+        23269.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Farms", 
+        "Beef cattle ranching and farming, including feedlots and dual-purpose ranching and farming", 
+        83274.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Farms", 
+        "Dairy cattle and milk production", 
+        36197.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Farms", 
+        "Animal production, except cattle and poultry and eggs", 
+        33360.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Farms", 
+        "Poultry and egg production", 
+        49396.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Forestry, fishing, and related activities", 
+        "Forestry and logging", 
+        19964.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Forestry, fishing, and related activities", 
+        "Fishing, hunting and trapping", 
+        9720.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Forestry, fishing, and related activities", 
+        "Support activities for agriculture and forestry", 
+        24594.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Mining", 
+        "Oil and gas extraction", 
+        255415.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Mining", 
+        "Mining, except oil and gas", 
+        117388.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Mining", 
+        "Support activities for mining", 
+        76959.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Oil and gas extraction", 
+        "Oil and gas extraction activities", 
+        255415.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Mining, except oil and gas", 
+        "Coal mining", 
+        46015.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Mining, except oil and gas", 
+        "Iron, gold, silver, and other metal ore mining", 
+        16014.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Mining, except oil and gas", 
+        "Copper, nickel, lead, and zinc mining", 
+        11173.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Mining, except oil and gas", 
+        "Stone mining and quarrying", 
+        19085.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Mining, except oil and gas", 
+        "Other nonmetallic mineral mining and quarrying", 
+        25101.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Support activities for mining", 
+        "Drilling oil and gas wells", 
+        26923.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Support activities for mining", 
+        "Other support activities for mining", 
+        50036.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Utilities and related", 
+        "Utilities", 
+        401823.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Utilities", 
+        "Other electric power generation, including hydroelectric", 
+        7765.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Utilities", 
+        "Fossil fuel electric power generation", 
+        91696.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Utilities", 
+        "Nuclear electric power generation", 
+        30587.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Utilities", 
+        "Electric power transmission, control, and distribution", 
+        172271.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Utilities", 
+        "Natural gas distribution", 
+        85548.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Utilities", 
+        "Water, sewage and other systems", 
+        13956.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Construction and related", 
+        "Construction", 
+        1352560.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Construction", 
+        "Nonresidential maintenance and repair", 
+        172357.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Construction", 
+        "Residential maintenance and repair", 
+        73977.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Construction", 
+        "Health care structures", 
+        38718.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Construction", 
+        "Manufacturing structures", 
+        66973.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Construction", 
+        "Power and communication structures", 
+        94619.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Construction", 
+        "Educational and vocational structures", 
+        87133.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Construction", 
+        "Highways and streets", 
+        73594.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Construction", 
+        "Commercial structures, including farm structures", 
+        110049.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Construction", 
+        "Other nonresidential structures", 
+        138376.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Construction", 
+        "Single-family residential structures", 
+        221586.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Construction", 
+        "Multifamily residential structures", 
+        56407.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Construction", 
+        "Other residential structures", 
+        218771.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Manufacturing", 
+        "Wood products", 
+        96698.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Manufacturing", 
+        "Nonmetallic mineral products", 
+        114127.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Manufacturing", 
+        "Primary metals", 
+        227789.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Manufacturing", 
+        "Fabricated metal products", 
+        375000.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Manufacturing", 
+        "Machinery", 
+        389843.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Manufacturing", 
+        "Computer and electronic products", 
+        387008.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Manufacturing", 
+        "Electrical equipment, appliances, and components", 
+        121596.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Manufacturing", 
+        "Motor vehicles, bodies and trailers, and parts", 
+        678046.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Manufacturing", 
+        "Other transportation equipment", 
+        339934.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Manufacturing", 
+        "Furniture and related products", 
+        75720.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Manufacturing", 
+        "Miscellaneous manufacturing", 
+        167183.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Manufacturing", 
+        "Food and beverage and tobacco products", 
+        945385.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Manufacturing", 
+        "Textile mills and textile product mills", 
+        55002.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Manufacturing", 
+        "Apparel and leather and allied products", 
+        32321.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Manufacturing", 
+        "Paper products", 
+        182919.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Manufacturing", 
+        "Printing and related support activities", 
+        87838.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Manufacturing", 
+        "Petroleum and coal products", 
+        498793.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Manufacturing", 
+        "Chemical products", 
+        828832.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Manufacturing", 
+        "Plastics and rubber products", 
+        225519.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Wood products", 
+        "Sawmills and wood preservation", 
+        28289.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Wood products", 
+        "Veneer, plywood, and engineered wood product manufacturing", 
+        20686.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Wood products", 
+        "Millwork", 
+        25947.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Wood products", 
+        "All other wood product manufacturing", 
+        21776.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Nonmetallic mineral products", 
+        "Clay product and refractory manufacturing", 
+        7925.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Nonmetallic mineral products", 
+        "Glass and glass product manufacturing", 
+        24856.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Nonmetallic mineral products", 
+        "Cement manufacturing", 
+        7330.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Nonmetallic mineral products", 
+        "Ready-mix concrete manufacturing", 
+        25158.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Nonmetallic mineral products", 
+        "Concrete pipe, brick, and block manufacturing", 
+        6218.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Nonmetallic mineral products", 
+        "Other concrete product manufacturing", 
+        10497.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Nonmetallic mineral products", 
+        "Lime and gypsum product manufacturing", 
+        7504.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Nonmetallic mineral products", 
+        "Abrasive product manufacturing", 
+        5694.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Nonmetallic mineral products", 
+        "Cut stone and stone product manufacturing", 
+        4372.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Nonmetallic mineral products", 
+        "Ground or treated mineral and earth manufacturing", 
+        4276.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Nonmetallic mineral products", 
+        "Mineral wool manufacturing", 
+        5879.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Nonmetallic mineral products", 
+        "Miscellaneous nonmetallic mineral products", 
+        4418.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Primary metals", 
+        "Iron and steel mills and ferroalloy manufacturing", 
+        86571.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Primary metals", 
+        "Steel product manufacturing from purchased steel", 
+        20217.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Primary metals", 
+        "Alumina refining and primary aluminum production", 
+        5053.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Primary metals", 
+        "Secondary smelting and alloying of aluminum", 
+        5971.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Primary metals", 
+        "Aluminum product manufacturing from purchased aluminum", 
+        24598.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Primary metals", 
+        "Primary smelting and refining of copper", 
+        7905.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Primary metals", 
+        "Primary smelting and refining of nonferrous metal (except copper and aluminum)", 
+        5788.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Primary metals", 
+        "Copper rolling, drawing, extruding and alloying", 
+        20467.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Primary metals", 
+        "Nonferrous metal (except copper and aluminum) rolling, drawing, extruding and alloying", 
+        18391.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Primary metals", 
+        "Ferrous metal foundries", 
+        18451.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Primary metals", 
+        "Nonferrous metal foundries", 
+        14377.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Fabricated metal products", 
+        "All other forging, stamping, and sintering", 
+        13550.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Fabricated metal products", 
+        "Custom roll forming", 
+        7591.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Fabricated metal products", 
+        "Crown and closure manufacturing and metal stamping", 
+        10601.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Fabricated metal products", 
+        "Cutlery and handtool manufacturing", 
+        10011.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Fabricated metal products", 
+        "Plate work and fabricated structural product manufacturing", 
+        44975.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Fabricated metal products", 
+        "Ornamental and architectural metal products manufacturing", 
+        39331.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Fabricated metal products", 
+        "Power boiler and heat exchanger manufacturing", 
+        7468.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Fabricated metal products", 
+        "Metal tank (heavy gauge) manufacturing", 
+        9823.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Fabricated metal products", 
+        "Metal can, box, and other metal container (light gauge) manufacturing", 
+        18468.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Fabricated metal products", 
+        "Hardware manufacturing", 
+        7966.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Fabricated metal products", 
+        "Spring and wire product manufacturing", 
+        9060.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Fabricated metal products", 
+        "Machine shops", 
+        42626.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Fabricated metal products", 
+        "Turned product and screw, nut, and bolt manufacturing", 
+        29547.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Fabricated metal products", 
+        "Coating, engraving, heat treating and allied activities", 
+        29192.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Fabricated metal products", 
+        "Valve and fittings other than plumbing", 
+        27504.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Fabricated metal products", 
+        "Plumbing fixture fitting and trim manufacturing", 
+        3400.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Fabricated metal products", 
+        "Ball and roller bearing manufacturing", 
+        7017.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Fabricated metal products", 
+        "Ammunition, arms, ordnance, and accessories manufacturing", 
+        16640.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Fabricated metal products", 
+        "Fabricated pipe and pipe fitting manufacturing", 
+        8219.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Fabricated metal products", 
+        "Other fabricated metal manufacturing", 
+        32011.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Farm machinery and equipment manufacturing", 
+        28727.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Lawn and garden equipment manufacturing", 
+        9952.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Construction machinery manufacturing", 
+        42607.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Mining and oil and gas field machinery manufacturing", 
+        20399.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Other industrial machinery manufacturing", 
+        20490.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Plastics and rubber industry machinery manufacturing", 
+        3193.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Semiconductor machinery manufacturing", 
+        6944.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Vending, commercial laundry, and other commercial and service industry machinery manufacturing", 
+        17041.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Office machinery manufacturing", 
+        2542.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Optical instrument and lens manufacturing", 
+        4104.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Photographic and photocopying equipment manufacturing", 
+        436.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Air purification and ventilation equipment manufacturing", 
+        6634.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Heating equipment (except warm air furnaces) manufacturing", 
+        4782.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Air conditioning, refrigeration, and warm air heating equipment manufacturing", 
+        31263.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Industrial mold manufacturing", 
+        7079.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Metal cutting and forming machine tool manufacturing", 
+        8494.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Special tool, die, jig, and fixture manufacturing", 
+        10067.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Cutting and machine tool accessory, rolling mill, and other metalworking machinery manufacturing", 
+        9462.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Turbine and turbine generator set units manufacturing", 
+        19007.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Speed changer, industrial high-speed drive, and gear manufacturing", 
+        3667.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Mechanical power transmission equipment manufacturing", 
+        3634.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Other engine equipment manufacturing", 
+        25173.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Pump and pumping equipment manufacturing", 
+        16556.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Air and gas compressor manufacturing", 
+        10521.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Material handling equipment manufacturing", 
+        31315.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Power-driven handtool manufacturing", 
+        3486.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Other general purpose machinery manufacturing", 
+        23505.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Packaging machinery manufacturing", 
+        5588.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Industrial process furnace and oven manufacturing", 
+        2989.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Machinery", 
+        "Fluid power process machinery", 
+        10186.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Computer and electronic products", 
+        "Electronic computer manufacturing", 
+        17616.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Computer and electronic products", 
+        "Computer storage device manufacturing", 
+        10026.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Computer and electronic products", 
+        "Computer terminals and other computer peripheral equipment manufacturing", 
+        14490.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Computer and electronic products", 
+        "Telephone apparatus manufacturing", 
+        9872.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Computer and electronic products", 
+        "Broadcast and wireless communications equipment", 
+        28899.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Computer and electronic products", 
+        "Other communications equipment manufacturing", 
+        6417.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Computer and electronic products", 
+        "Audio and video equipment manufacturing", 
+        3198.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Computer and electronic products", 
+        "Other electronic component manufacturing", 
+        36381.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Computer and electronic products", 
+        "Semiconductor and related device manufacturing", 
+        65330.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Computer and electronic products", 
+        "Printed circuit assembly (electronic assembly) manufacturing", 
+        23037.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Computer and electronic products", 
+        "Electromedical and electrotherapeutic apparatus manufacturing", 
+        31438.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Computer and electronic products", 
+        "Search, detection, and navigation instruments manufacturing", 
+        52352.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Computer and electronic products", 
+        "Automatic environmental control manufacturing", 
+        3616.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Computer and electronic products", 
+        "Industrial process variable instruments manufacturing", 
+        14117.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Computer and electronic products", 
+        "Totalizing fluid meter and counting device manufacturing", 
+        5820.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Computer and electronic products", 
+        "Electricity and signal testing instruments manufacturing", 
+        12973.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Computer and electronic products", 
+        "Analytical laboratory instrument manufacturing", 
+        18209.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Computer and electronic products", 
+        "Irradiation apparatus manufacturing", 
+        14632.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Computer and electronic products", 
+        "Watch, clock, and other measuring and controlling device manufacturing", 
+        13986.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Computer and electronic products", 
+        "Manufacturing and reproducing magnetic and optical media", 
+        4599.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Electrical equipment, appliances, and components", 
+        "Electric lamp bulb and part manufacturing", 
+        1551.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Electrical equipment, appliances, and components", 
+        "Lighting fixture manufacturing", 
+        10573.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Electrical equipment, appliances, and components", 
+        "Small electrical appliance manufacturing", 
+        2634.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Electrical equipment, appliances, and components", 
+        "Household cooking appliance manufacturing", 
+        4680.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Electrical equipment, appliances, and components", 
+        "Household refrigerator and home freezer manufacturing", 
+        3286.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Electrical equipment, appliances, and components", 
+        "Household laundry equipment manufacturing", 
+        3511.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Electrical equipment, appliances, and components", 
+        "Other major household appliance manufacturing", 
+        4409.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Electrical equipment, appliances, and components", 
+        "Power, distribution, and specialty transformer manufacturing", 
+        5644.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Electrical equipment, appliances, and components", 
+        "Motor and generator manufacturing", 
+        11393.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Electrical equipment, appliances, and components", 
+        "Switchgear and switchboard apparatus manufacturing", 
+        11425.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Electrical equipment, appliances, and components", 
+        "Relay and industrial control manufacturing", 
+        9934.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Electrical equipment, appliances, and components", 
+        "Storage battery manufacturing", 
+        6877.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Electrical equipment, appliances, and components", 
+        "Primary battery manufacturing", 
+        3478.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Electrical equipment, appliances, and components", 
+        "Communication and energy wire and cable manufacturing", 
+        13388.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Electrical equipment, appliances, and components", 
+        "Wiring device manufacturing", 
+        14618.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Electrical equipment, appliances, and components", 
+        "Carbon and graphite product manufacturing", 
+        3273.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Electrical equipment, appliances, and components", 
+        "All other miscellaneous electrical equipment and component manufacturing", 
+        10922.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Motor vehicles, bodies and trailers, and parts", 
+        "Automobile manufacturing", 
+        126788.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Motor vehicles, bodies and trailers, and parts", 
+        "Light truck and utility vehicle manufacturing", 
+        208948.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Motor vehicles, bodies and trailers, and parts", 
+        "Heavy duty truck manufacturing", 
+        31606.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Motor vehicles, bodies and trailers, and parts", 
+        "Motor vehicle body manufacturing", 
+        13599.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Motor vehicles, bodies and trailers, and parts", 
+        "Truck trailer manufacturing", 
+        9884.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Motor vehicles, bodies and trailers, and parts", 
+        "Motor home manufacturing", 
+        4303.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Motor vehicles, bodies and trailers, and parts", 
+        "Travel trailer and camper manufacturing", 
+        14629.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Motor vehicles, bodies and trailers, and parts", 
+        "Motor vehicle gasoline engine and engine parts manufacturing", 
+        36504.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Motor vehicles, bodies and trailers, and parts", 
+        "Motor vehicle electrical and electronic equipment manufacturing", 
+        25795.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Motor vehicles, bodies and trailers, and parts", 
+        "Motor vehicle steering, suspension component (except spring), and brake systems manufacturing", 
+        27440.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Motor vehicles, bodies and trailers, and parts", 
+        "Motor vehicle transmission and power train parts manufacturing", 
+        42055.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Motor vehicles, bodies and trailers, and parts", 
+        "Motor vehicle seating and interior trim manufacturing", 
+        28936.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Motor vehicles, bodies and trailers, and parts", 
+        "Motor vehicle metal stamping", 
+        37653.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Motor vehicles, bodies and trailers, and parts", 
+        "Other motor vehicle parts manufacturing", 
+        69906.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other transportation equipment", 
+        "Aircraft manufacturing", 
+        147162.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other transportation equipment", 
+        "Aircraft engine and engine parts manufacturing", 
+        53611.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other transportation equipment", 
+        "Other aircraft parts and auxiliary equipment manufacturing", 
+        40841.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other transportation equipment", 
+        "Guided missile and space vehicle manufacturing", 
+        21602.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other transportation equipment", 
+        "Propulsion units and parts for space vehicles and guided missiles", 
+        6117.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other transportation equipment", 
+        "Railroad rolling stock manufacturing", 
+        17503.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other transportation equipment", 
+        "Ship building and repairing", 
+        26557.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other transportation equipment", 
+        "Boat building", 
+        8960.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other transportation equipment", 
+        "Motorcycle, bicycle, and parts manufacturing", 
+        6269.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other transportation equipment", 
+        "Military armored vehicle, tank, and tank component manufacturing", 
+        2729.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other transportation equipment", 
+        "All other transportation equipment manufacturing", 
+        8583.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Furniture and related products", 
+        "Wood kitchen cabinet and countertop manufacturing", 
+        14091.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Furniture and related products", 
+        "Upholstered household furniture manufacturing", 
+        10665.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Furniture and related products", 
+        "Nonupholstered wood household furniture manufacturing", 
+        4500.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Furniture and related products", 
+        "Other household nonupholstered furniture", 
+        3360.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Furniture and related products", 
+        "Institutional furniture manufacturing", 
+        4911.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Furniture and related products", 
+        "Office furniture and custom architectural woodwork and millwork manufacturing", 
+        17626.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Furniture and related products", 
+        "Showcase, partition, shelving, and locker manufacturing", 
+        7399.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Furniture and related products", 
+        "Other furniture related product manufacturing", 
+        13168.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Miscellaneous manufacturing", 
+        "Surgical and medical instrument manufacturing", 
+        41423.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Miscellaneous manufacturing", 
+        "Surgical appliance and supplies manufacturing", 
+        40020.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Miscellaneous manufacturing", 
+        "Dental equipment and supplies manufacturing", 
+        5087.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Miscellaneous manufacturing", 
+        "Ophthalmic goods manufacturing", 
+        7481.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Miscellaneous manufacturing", 
+        "Dental laboratories", 
+        5721.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Miscellaneous manufacturing", 
+        "Jewelry and silverware manufacturing", 
+        8311.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Miscellaneous manufacturing", 
+        "Sporting and athletic goods manufacturing", 
+        10501.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Miscellaneous manufacturing", 
+        "Doll, toy, and game manufacturing", 
+        1675.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Miscellaneous manufacturing", 
+        "Office supplies (except paper) manufacturing", 
+        3360.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Miscellaneous manufacturing", 
+        "Sign manufacturing", 
+        13647.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Miscellaneous manufacturing", 
+        "All other miscellaneous manufacturing", 
+        29957.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "Dog and cat food manufacturing", 
+        23485.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "Other animal food manufacturing", 
+        34326.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "Flour milling and malt manufacturing", 
+        20104.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "Wet corn milling", 
+        11273.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "Soybean and other oilseed processing", 
+        35783.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "Fats and oils refining and blending", 
+        14932.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "Breakfast cereal manufacturing", 
+        9743.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "Sugar and confectionery product manufacturing", 
+        33998.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "Frozen food manufacturing", 
+        32800.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "Fruit and vegetable canning, pickling, and drying", 
+        41162.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "Fluid milk and butter manufacturing", 
+        36576.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "Cheese manufacturing", 
+        44688.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "Dry, condensed, and evaporated dairy product manufacturing", 
+        19607.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "Ice cream and frozen dessert manufacturing", 
+        7025.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "Animal (except poultry) slaughtering, rendering, and processing", 
+        148620.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "Poultry processing", 
+        59701.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "Seafood product preparation and packaging", 
+        11518.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "Bread and bakery product manufacturing", 
+        40202.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "Cookie, cracker, pasta, and tortilla manufacturing", 
+        29647.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "Snack food manufacturing", 
+        36394.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "Coffee and tea manufacturing", 
+        14868.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "Flavoring syrup and concentrate manufacturing", 
+        8892.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "Seasoning and dressing manufacturing", 
+        20329.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "All other food manufacturing", 
+        25635.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "Soft drink and ice manufacturing", 
+        42616.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "Breweries", 
+        37418.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "Wineries", 
+        18290.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "Distilleries", 
+        15177.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage and tobacco products", 
+        "Tobacco product manufacturing", 
+        70576.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Textile mills and textile product mills", 
+        "Fiber, yarn, and thread mills", 
+        7956.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Textile mills and textile product mills", 
+        "Fabric mills", 
+        14811.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Textile mills and textile product mills", 
+        "Textile and fabric finishing and fabric coating mills", 
+        8176.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Textile mills and textile product mills", 
+        "Carpet and rug mills", 
+        9429.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Textile mills and textile product mills", 
+        "Curtain and linen mills", 
+        3996.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Textile mills and textile product mills", 
+        "Other textile product mills", 
+        10634.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Apparel and leather and allied products", 
+        "Apparel manufacturing", 
+        25306.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Apparel and leather and allied products", 
+        "Leather and allied product manufacturing", 
+        7015.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Paper products", 
+        "Pulp mills", 
+        5472.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Paper products", 
+        "Paper mills", 
+        47275.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Paper products", 
+        "Paperboard mills", 
+        30478.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Paper products", 
+        "Paperboard container manufacturing", 
+        54271.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Paper products", 
+        "Paper bag and coated and treated paper manufacturing", 
+        22262.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Paper products", 
+        "Stationery product manufacturing", 
+        6201.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Paper products", 
+        "Sanitary paper product manufacturing", 
+        11894.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Paper products", 
+        "All other converted paper product manufacturing", 
+        5066.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Printing and related support activities", 
+        "Printing", 
+        83930.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Printing and related support activities", 
+        "Support activities for printing", 
+        3908.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Petroleum and coal products", 
+        "Petroleum refineries", 
+        457894.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Petroleum and coal products", 
+        "Asphalt paving mixture and block manufacturing", 
+        11440.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Petroleum and coal products", 
+        "Asphalt shingle and coating materials manufacturing", 
+        8481.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Petroleum and coal products", 
+        "Other petroleum and coal products manufacturing", 
+        20978.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Chemical products", 
+        "Petrochemical manufacturing", 
+        65503.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Chemical products", 
+        "Industrial gas manufacturing", 
+        6744.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Chemical products", 
+        "Synthetic dye and pigment manufacturing", 
+        7622.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Chemical products", 
+        "Other basic inorganic chemical manufacturing", 
+        33408.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Chemical products", 
+        "Other basic organic chemical manufacturing", 
+        128701.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Chemical products", 
+        "Plastics material and resin manufacturing", 
+        88187.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Chemical products", 
+        "Synthetic rubber and artificial and synthetic fibers and filaments manufacturing", 
+        15002.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Chemical products", 
+        "Fertilizer manufacturing", 
+        29232.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Chemical products", 
+        "Pesticide and other agricultural chemical manufacturing", 
+        17175.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Chemical products", 
+        "Medicinal and botanical manufacturing", 
+        18057.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Chemical products", 
+        "Pharmaceutical preparation manufacturing", 
+        207209.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Chemical products", 
+        "In-vitro diagnostic substance manufacturing", 
+        16995.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Chemical products", 
+        "Biological product (except diagnostic) manufacturing", 
+        32236.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Chemical products", 
+        "Paint and coating manufacturing", 
+        28770.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Chemical products", 
+        "Adhesive manufacturing", 
+        12414.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Chemical products", 
+        "Soap and cleaning compound manufacturing", 
+        38204.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Chemical products", 
+        "Toilet preparation manufacturing", 
+        38785.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Chemical products", 
+        "Printing ink manufacturing", 
+        4544.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Chemical products", 
+        "All other chemical product and preparation manufacturing", 
+        40044.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Plastics and rubber products", 
+        "Plastics packaging materials and unlaminated film and sheet manufacturing", 
+        40709.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Plastics and rubber products", 
+        "Plastics pipe, pipe fitting, and unlaminated profile shape manufacturing", 
+        17512.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Plastics and rubber products", 
+        "Laminated plastics plate, sheet (except packaging), and shape manufacturing", 
+        3735.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Plastics and rubber products", 
+        "Polystyrene foam product manufacturing", 
+        7695.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Plastics and rubber products", 
+        "Urethane and other foam product (except polystyrene) manufacturing", 
+        10230.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Plastics and rubber products", 
+        "Plastics bottle manufacturing", 
+        12507.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Plastics and rubber products", 
+        "Other plastics product manufacturing", 
+        91454.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Plastics and rubber products", 
+        "Tire manufacturing", 
+        18974.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Plastics and rubber products", 
+        "Rubber and plastics hoses and belting manufacturing", 
+        5050.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Plastics and rubber products", 
+        "Other rubber product manufacturing", 
+        17653.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Wholesale trade activities", 
+        "Wholesale trade", 
+        1554260.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Wholesale trade", 
+        "Merchant wholesalers, durable goods", 
+        784553.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Wholesale trade", 
+        "Merchant wholesalers, nondurable goods", 
+        678719.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Wholesale trade", 
+        "Wholesale electronic markets and agents and brokers", 
+        52865.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Wholesale trade", 
+        "Wholesale trade adjustments", 
+        38123.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Retail trade", 
+        "Motor vehicle and parts", 
+        276295.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Retail trade", 
+        "Food and beverage", 
+        230751.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Retail trade", 
+        "General merchandise", 
+        229596.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Retail trade", 
+        "Other retail", 
+        904093.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Motor vehicle and parts", 
+        "Motor vehicle and parts dealers", 
+        276295.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food and beverage", 
+        "Food and beverage stores", 
+        230751.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "General merchandise", 
+        "General merchandise stores", 
+        229596.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other retail", 
+        "Furniture and home furnishings stores", 
+        58341.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other retail", 
+        "Electronics and appliance stores", 
+        39968.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other retail", 
+        "Building material and garden equipment and supplies dealers", 
+        144147.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other retail", 
+        "Health and personal care stores", 
+        103773.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other retail", 
+        "Gasoline stations", 
+        86326.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other retail", 
+        "Clothing and clothing accessories stores", 
+        136996.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other retail", 
+        "Sporting goods, hobby, book, and music stores", 
+        47194.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other retail", 
+        "Miscellaneous store retailers", 
+        69278.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other retail", 
+        "Nonstore retailers", 
+        218070.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Transportation and warehousing", 
+        "Air transportation", 
+        188627.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Transportation and warehousing", 
+        "Rail transportation", 
+        80789.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Transportation and warehousing", 
+        "Water transportation", 
+        60164.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Transportation and warehousing", 
+        "Truck transportation", 
+        333910.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Transportation and warehousing", 
+        "Transit and ground passenger transportation", 
+        58079.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Transportation and warehousing", 
+        "Pipeline transportation", 
+        33206.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Transportation and warehousing", 
+        "Other transportation and support activities", 
+        226341.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Transportation and warehousing", 
+        "Warehousing and storage", 
+        93708.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Air transportation", 
+        "Air transportation activities", 
+        188627.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Rail transportation", 
+        "Rail transportation activities", 
+        80789.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Water transportation", 
+        "Water transportation activities", 
+        60164.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Truck transportation", 
+        "Truck transportation activities", 
+        333910.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Transit and ground passenger transportation", 
+        "Transit and ground passenger transportation activities", 
+        58079.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Pipeline transportation", 
+        "Pipeline transportation activities", 
+        33206.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other transportation and support activities", 
+        "Scenic and sightseeing transportation and support activities for transportation", 
+        127627.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other transportation and support activities", 
+        "Couriers and messengers", 
+        98714.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Warehousing and storage", 
+        "Warehousing and storage activities", 
+        93708.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Information", 
+        "Publishing industries, except internet (includes software)", 
+        326396.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Information", 
+        "Motion picture and sound recording industries", 
+        154128.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Information", 
+        "Broadcasting and telecommunications", 
+        845905.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Information", 
+        "Data processing, internet publishing, and other information services", 
+        223270.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Publishing industries, except internet (includes software)", 
+        "Newspaper publishers", 
+        29618.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Publishing industries, except internet (includes software)", 
+        "Periodical Publishers", 
+        39217.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Publishing industries, except internet (includes software)", 
+        "Book publishers", 
+        39309.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Publishing industries, except internet (includes software)", 
+        "Directory, mailing list, and other publishers", 
+        16371.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Publishing industries, except internet (includes software)", 
+        "Software publishers", 
+        201881.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Motion picture and sound recording industries", 
+        "Motion picture and video industries", 
+        131448.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Motion picture and sound recording industries", 
+        "Sound recording industries", 
+        22680.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Broadcasting and telecommunications", 
+        "Radio and television broadcasting", 
+        86909.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Broadcasting and telecommunications", 
+        "Cable and other subscription programming", 
+        95008.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Broadcasting and telecommunications", 
+        "Wired telecommunications carriers", 
+        365510.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Broadcasting and telecommunications", 
+        "Wireless telecommunications carriers (except satellite)", 
+        255484.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Broadcasting and telecommunications", 
+        "Satellite, telecommunications resellers, and all other telecommunications", 
+        42994.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Data processing, internet publishing, and other information services", 
+        "Data processing, hosting, and related services", 
+        124268.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Data processing, internet publishing, and other information services", 
+        "News syndicates, libraries, archives and all other information services", 
+        10153.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Data processing, internet publishing, and other information services", 
+        "Internet publishing and broadcasting and Web search portals", 
+        88849.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Finance, insurance, real estate, rental, and leasing", 
+        "Federal Reserve banks, credit intermediation, and related activities", 
+        755414.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Finance, insurance, real estate, rental, and leasing", 
+        "Securities, commodity contracts, and investments", 
+        490797.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Finance, insurance, real estate, rental, and leasing", 
+        "Insurance carriers and related activities", 
+        890115.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Finance, insurance, real estate, rental, and leasing", 
+        "Funds, trusts, and other financial vehicles", 
+        141348.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Finance, insurance, real estate, rental, and leasing", 
+        "Real estate", 
+        2965144.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Finance, insurance, real estate, rental, and leasing", 
+        "Rental and leasing services and lessors of intangible assets", 
+        354198.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Federal Reserve banks, credit intermediation, and related activities", 
+        "Monetary authorities and depository credit intermediation", 
+        552554.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Federal Reserve banks, credit intermediation, and related activities", 
+        "Nondepository credit intermediation and related activities", 
+        202860.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Securities, commodity contracts, and investments", 
+        "Securities and commodity contracts intermediation and brokerage", 
+        199382.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Securities, commodity contracts, and investments", 
+        "Other financial investment activities", 
+        291415.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Insurance carriers and related activities", 
+        "Insurance carriers", 
+        634712.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Insurance carriers and related activities", 
+        "Insurance agencies, brokerages, and related activities", 
+        255403.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Funds, trusts, and other financial vehicles", 
+        "Funds, trusts, and others", 
+        141348.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Real estate", 
+        "Housing", 
+        1919236.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Real estate", 
+        "Other real estate", 
+        1045908.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Rental and leasing services and lessors of intangible assets", 
+        "Automotive equipment rental and leasing", 
+        61672.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Rental and leasing services and lessors of intangible assets", 
+        "Consumer goods and general rental centers", 
+        31987.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Rental and leasing services and lessors of intangible assets", 
+        "Commercial and industrial machinery and equipment rental and leasing", 
+        76373.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Rental and leasing services and lessors of intangible assets", 
+        "Lessors of nonfinancial intangible assets", 
+        184166.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Professional and business services", 
+        "Legal services", 
+        321656.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Professional and business services", 
+        "Computer systems design and related services", 
+        353161.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Professional and business services", 
+        "Miscellaneous professional, scientific, and technical services", 
+        1288005.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Professional and business services", 
+        "Management of companies and enterprises", 
+        630749.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Professional and business services", 
+        "Administrative and support services", 
+        811145.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Professional and business services", 
+        "Waste management and remediation services", 
+        92945.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Legal services", 
+        "Legal services activities", 
+        321656.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Computer systems design and related services", 
+        "Custom computer programming services", 
+        157254.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Computer systems design and related services", 
+        "Computer systems design services", 
+        123854.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Computer systems design and related services", 
+        "Other computer related services, including facilities management", 
+        72053.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Miscellaneous professional, scientific, and technical services", 
+        "Accounting, tax preparation, bookkeeping, and payroll services", 
+        180040.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Miscellaneous professional, scientific, and technical services", 
+        "Architectural, engineering, and related services", 
+        280832.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Miscellaneous professional, scientific, and technical services", 
+        "Specialized design services", 
+        33944.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Miscellaneous professional, scientific, and technical services", 
+        "Management consulting services", 
+        195258.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Miscellaneous professional, scientific, and technical services", 
+        "Environmental and other technical consulting services", 
+        45895.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Miscellaneous professional, scientific, and technical services", 
+        "Scientific research and development services", 
+        250783.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Miscellaneous professional, scientific, and technical services", 
+        "Advertising, public relations, and related services", 
+        166213.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Miscellaneous professional, scientific, and technical services", 
+        "Marketing research and all other miscellaneous professional, scientific, and technical services", 
+        83645.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Miscellaneous professional, scientific, and technical services", 
+        "Photographic services", 
+        13443.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Miscellaneous professional, scientific, and technical services", 
+        "Veterinary services", 
+        37952.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Management of companies and enterprises", 
+        "Management of companies and enterprises activities", 
+        630749.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Administrative and support services", 
+        "Office administrative services", 
+        78231.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Administrative and support services", 
+        "Facilities support services", 
+        35369.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Administrative and support services", 
+        "Employment services", 
+        278287.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Administrative and support services", 
+        "Business support services", 
+        76197.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Administrative and support services", 
+        "Travel arrangement and reservation services", 
+        51992.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Administrative and support services", 
+        "Investigation and security services", 
+        58043.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Administrative and support services", 
+        "Services to buildings and dwellings", 
+        182292.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Administrative and support services", 
+        "Other support services", 
+        50734.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Educational services, health care, and social assistance", 
+        "Educational services", 
+        421924.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Educational services, health care, and social assistance", 
+        "Ambulatory health care services", 
+        992968.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Educational services, health care, and social assistance", 
+        "Hospitals", 
+        802401.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Educational services, health care, and social assistance", 
+        "Nursing and residential care facilities", 
+        232044.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Educational services, health care, and social assistance", 
+        "Social assistance", 
+        179235.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Educational services", 
+        "Waste management and remediation services", 
+        92945.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Educational services", 
+        "Elementary and secondary schools", 
+        40776.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Educational services", 
+        "Junior colleges, colleges, universities, and professional schools", 
+        209791.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Educational services", 
+        "Other educational services", 
+        78412.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Ambulatory health care services", 
+        "Offices of physicians", 
+        474024.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Ambulatory health care services", 
+        "Offices of dentists", 
+        119007.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Ambulatory health care services", 
+        "Offices of other health practitioners", 
+        98119.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Ambulatory health care services", 
+        "Outpatient care centers", 
+        123634.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Ambulatory health care services", 
+        "Medical and diagnostic laboratories", 
+        47559.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Ambulatory health care services", 
+        "Home health care services", 
+        86642.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Ambulatory health care services", 
+        "Other ambulatory health care services", 
+        43983.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Hospitals", 
+        "Hospital activities", 
+        802401.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Nursing and residential care facilities", 
+        "Nursing and community care facilities", 
+        183776.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Nursing and residential care facilities", 
+        "Residential mental retardation, mental health, substance abuse and other facilities", 
+        48268.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Social assistance", 
+        "Individual and family services", 
+        86093.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Social assistance", 
+        "Community food, housing, and other relief services, including rehabilitation services", 
+        43422.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Social assistance", 
+        "Child day care services", 
+        49720.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Arts, entertainment, recreation, accommodation, and food services", 
+        "Performing arts, spectator sports, museums, and related activities", 
+        169331.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Arts, entertainment, recreation, accommodation, and food services", 
+        "Amusements, gambling, and recreation industries", 
+        147611.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Arts, entertainment, recreation, accommodation, and food services", 
+        "Accommodation", 
+        243394.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Arts, entertainment, recreation, accommodation, and food services", 
+        "Food services and drinking places", 
+        723476.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Performing arts, spectator sports, museums, and related activities", 
+        "Performing arts companies", 
+        31247.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Performing arts, spectator sports, museums, and related activities", 
+        "Spectator sports", 
+        44999.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Performing arts, spectator sports, museums, and related activities", 
+        "Promoters of performing arts and sports and agents for public figures", 
+        40046.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Performing arts, spectator sports, museums, and related activities", 
+        "Independent artists, writers, and performers", 
+        39681.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Performing arts, spectator sports, museums, and related activities", 
+        "Museums, historical sites, zoos, and parks", 
+        13358.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Amusements, gambling, and recreation industries", 
+        "Amusement parks and arcades", 
+        27119.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx"
+        }
+    ], 
+    [
+        "Amusements, gambling, and recreation industries", 
+        "Gambling industries (except casino hotels)", 
+        40095.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx"
+        }
+    ], 
+    [
+        "Amusements, gambling, and recreation industries", 
+        "Other amusement and recreation industries", 
+        80397.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Accommodation", 
+        "Accommodation activities", 
+        243394.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food services and drinking places", 
+        "Full-service restaurants", 
+        329380.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food services and drinking places", 
+        "Limited-service restaurants", 
+        353599.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Food services and drinking places", 
+        "All other food and drinking places", 
+        40497.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other services, except government", 
+        "Other services, except government activities", 
+        663263.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other services, except government activities", 
+        "Automotive repair and maintenance", 
+        126138.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other services, except government activities", 
+        "Electronic and precision equipment repair and maintenance", 
+        20572.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other services, except government activities", 
+        "Commercial and industrial machinery and equipment repair and maintenance", 
+        39545.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other services, except government activities", 
+        "Personal and household goods repair and maintenance", 
+        25105.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other services, except government activities", 
+        "Personal care services", 
+        84725.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other services, except government activities", 
+        "Death care services", 
+        22422.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other services, except government activities", 
+        "Dry-cleaning and laundry services", 
+        29555.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other services, except government activities", 
+        "Other personal services", 
+        67595.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other services, except government activities", 
+        "Religious organizations", 
+        85949.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other services, except government activities", 
+        "Grantmaking, giving, and social advocacy organizations", 
+        59118.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other services, except government activities", 
+        "Civic, social, professional, and similar organizations", 
+        81068.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Other services, except government activities", 
+        "Private households", 
+        21471.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Government", 
+        "Federal general government", 
+        1011959.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Government", 
+        "Federal government enterprises", 
+        92511.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Government", 
+        "State and local general government", 
+        2129177.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Government", 
+        "State and local government enterprises", 
+        286051.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Federal general government", 
+        "Federal general government (defense)", 
+        617024.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Federal general government", 
+        "Federal general government (nondefense)", 
+        394935.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Federal government enterprises", 
+        "Postal service", 
+        62457.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Federal government enterprises", 
+        "Federal electric utilities", 
+        13532.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "Federal government enterprises", 
+        "Other federal government enterprises", 
+        16522.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "State and local general government", 
+        "State and local general government activities", 
+        2129177.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "State and local government enterprises", 
+        "State and local government passenger transit", 
+        15919.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "State and local government enterprises", 
+        "State and local government electric utilities", 
+        35724.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ], 
+    [
+        "State and local government enterprises", 
+        "Other state and local government enterprises", 
+        234408.0, 
+        {
+            "reference": "http://www.bea.gov/industry/xls/io-annual/GDPbyInd_GO_NAICS_1997-2015.xlsx", 
+            "year": "2015"
+        }
+    ]
+]
