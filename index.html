@@ -1,78 +1,126 @@
 <!DOCTYPE html>
-<meta charset="utf-8">
-<style>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Industry GDP NAICS</title>
 
-path {
-  stroke: #fff;
-}
+    <!-- We use google fonts for many of the examples, but they are not necessary -->
+    <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto|Raleway:600,400,200' rel='stylesheet' type='text/css'>
 
-body {
+    <!-- Test container style sheets -->
+    <link rel="stylesheet" href="styles/examples.css">
 
-  padding-left: 25vw;
-  padding-top: 10vh;
-}
+    <!-- Vizuly specific style sheets -->
+    <link rel="stylesheet" href="lib/styles/vizuly.css">
+    <link rel="stylesheet" href="lib/styles/vizuly_weightedtree.css">
 
-</style>
+    <!-- Supporting test container files:  Vizuly does NOT rely on these -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="lib/styles/cssmenu.css">
+    <script type="text/javascript" src="lib/jquery-2.1.1.min.js"></script>
+    <script src="lib/cssmenu.js"></script>
+
+    <!-- D3.js ... of course! -->
+    <script src="d3lib/d3.min.js"></script>
+
+    <!-- debug source scripts: start --> <!--
+    <script src="src/namespace/namespace.js"></script>
+    <script src="src/viz/_viz.js"></script>
+
+    <script src="src/theme/_theme.js"></script>
+
+
+    <script src="src/core/component.js"></script>
+    <script src="src/core/data.js"></script>
+    <script src="src/core/util.js"></script>
+    <script src="src/core/color.js"></script>
+    <script src="src/core/format.js"></script>
+    <script src="src/svg/_svg.js"></script>
+    <script src="src/svg/gradient.js"></script>
+    <script src="src/svg/filter.js"></script>
+    <script src="src/viz/weightedtree.js"></script>
+    <script src="src/theme/weightedtree.js"></script>
+
+    --> <!-- debug source scripts: end -->
+
+    <script src="d3lib/vizuly_core.min.js"></script>
+	<script src="d3lib/vizuly_weightedtree.min.js"></script>
+
+    <script src="weightedtree_test.js"></script>
+
+</head>
+
 <body>
-<script src="//d3js.org/d3.v3.min.js"></script>
+
+<div id='cssmenu'>
+    <ul class="main-menu">
+        <li class='active'>
+            <a><span>Display</span><br><span class="setting"></span></a>
+            <ul class="options" callback="changeSize">
+                <li id="currentDisplay" class="selected"><a></a></li>
+                <li item_value="1000,1000"><a>1000px - 1000px</a></li>
+                <li item_value="800,600"><a>800px - 600px</a></li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+<!-- Our main content container-->
+<div class="container" style="width:100%">
+    <div id="viz_container" class="z-depth-3">
+    </div>
+</div>
+
+
+
+
 <script>
+    //Once the document is ready we set javascript and page settings
+    var screenWidth;
+    var screenHeight;
 
-var width = 960,
-    height = 700,
-    radius = (Math.min(width, height) / 2) - 10;
+    $(document).ready(function () {
 
-var formatNumber = d3.format(",d");
+        var rect;
+        if (self==top) {
+            rect = document.body.getBoundingClientRect();
+        }
+        else {
+            rect = document.body.getBoundingClientRect();
+        }
 
-var x = d3.scale.linear()
-    .range([0, 2 * Math.PI]);
+        //Set display size based on window size.
+        screenWidth = (rect.width < 960) ? Math.round(rect.width*.95) : Math.round((rect.width - 210) *.95);
 
-var y = d3.scale.sqrt()
-    .range([0, radius]);
+        screenHeight=750;
 
-var color = d3.scale.category20c();
-
-var partition = d3.layout.partition()
-    .value(function(d) { return d.size; });
-
-var arc = d3.svg.arc()
-    .startAngle(function(d) { return Math.max(0, Math.min(2 * Math.PI, x(d.x))); })
-    .endAngle(function(d) { return Math.max(0, Math.min(2 * Math.PI, x(d.x + d.dx))); })
-    .innerRadius(function(d) { return Math.max(0, y(d.y)); })
-    .outerRadius(function(d) { return Math.max(0, y(d.y + d.dy)); });
-
-var svg = d3.select("body").append("svg")
-    .attr("width", width)
-    .attr("height", height)
-  .append("g")
-    .attr("transform", "translate(" + width / 2 + "," + (height / 2) + ")");
+        d3.select("#currentDisplay")
+                .attr("item_value", screenWidth + "," + screenHeight)
+                .attr("class", "selected")
+                .html("<a>" + screenWidth + "px - " + screenHeight + "px</a>");
 
 
-d3.json("./data/flare.json", function(error, root) {
-  if (error) throw error;
+        $("#cssmenu").menumaker({
+            title: "Industry GDP by NAICS",
+            format: "multitoggle"
+        });
 
-  svg.selectAll("path")
-      .data(partition.nodes(root))
-    .enter().append("path")
-      .attr("d", arc)
-      .style("fill", function(d) { return color((d.children ? d : d.parent).name); })
-      .on("click", click)
-    .append("title")
-      .text(function(d) { return d.name + "\n" + formatNumber(d.value); });
-});
+        // Set the size of our container element.
+        viz_container = d3.selectAll("#viz_container")
+                .style("width", screenWidth + "px")
+                .style("height", screenHeight + "px");
 
-function click(d) {
-  svg.transition()
-      .duration(750)
-      .tween("scale", function() {
-        var xd = d3.interpolate(x.domain(), [d.x, d.x + d.dx]),
-            yd = d3.interpolate(y.domain(), [d.y, 1]),
-            yr = d3.interpolate(y.range(), [d.y ? 20 : 0, radius]);
-        return function(t) { x.domain(xd(t)); y.domain(yd(t)).range(yr(t)); };
-      })
-    .selectAll("path")
-      .attrTween("d", function(d) { return function() { return arc(d); }; });
-}
 
-d3.select(self.frameElement).style("height", height + "px");
+        loadData();
+
+
+    });
 
 </script>
+
+
+</body>
+
+
+</html>

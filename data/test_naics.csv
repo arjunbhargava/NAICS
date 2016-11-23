@@ -1,0 +1,396 @@
+Category,Level1,Level2,Level3,Level4,Output,
+Test,"Agriculture, forestry, fishing, and hunting",Farms,Oilseed farming,,35.521,35521
+Test,"Agriculture, forestry, fishing, and hunting",Farms,Grain farming,,62.106,62106
+Test,"Agriculture, forestry, fishing, and hunting",Farms,Vegetable and melon farming,,20.758,20758
+Test,"Agriculture, forestry, fishing, and hunting",Farms,Fruit and tree nut farming,,30.346,30346
+Test,"Agriculture, forestry, fishing, and hunting",Farms,"Greenhouse, nursery, and floriculture production",,18.225,18225
+Test,"Agriculture, forestry, fishing, and hunting",Farms,Other crop farming,,23.269,23269
+Test,"Agriculture, forestry, fishing, and hunting",Farms,"Beef cattle ranching and farming, including feedlots and dual-purpose ranching and farming",,83.274,83274
+Test,"Agriculture, forestry, fishing, and hunting",Farms,Dairy cattle and milk production,,36.197,36197
+Test,"Agriculture, forestry, fishing, and hunting",Farms,"Animal production, except cattle and poultry and eggs",,33.36,33360
+Test,"Agriculture, forestry, fishing, and hunting",Farms,Poultry and egg production,,49.396,49396
+Test,"Agriculture, forestry, fishing, and hunting","Forestry, fishing, and related activities",Forestry and logging,,19.964,19964
+Test,"Agriculture, forestry, fishing, and hunting","Forestry, fishing, and related activities","Fishing, hunting and trapping",,9.72,9720
+Test,"Agriculture, forestry, fishing, and hunting","Forestry, fishing, and related activities",Support activities for agriculture and forestry,,24.594,24594
+Test,Mining,Oil and gas extraction,Oil and gas extraction activities,,255.415,255415
+Test,Mining,"Mining, except oil and gas",Coal mining,,46.015,46015
+Test,Mining,"Mining, except oil and gas","Iron, gold, silver, and other metal ore mining",,16.014,16014
+Test,Mining,"Mining, except oil and gas","Copper, nickel, lead, and zinc mining",,11.173,11173
+Test,Mining,"Mining, except oil and gas",Stone mining and quarrying,,19.085,19085
+Test,Mining,"Mining, except oil and gas",Other nonmetallic mineral mining and quarrying,,25.101,25101
+Test,Mining,Support activities for mining,Drilling oil and gas wells,,26.923,26923
+Test,Mining,Support activities for mining,Other support activities for mining,,50.036,50036
+Test,Utilities and related,Utilities,"Other electric power generation, including hydroelectric",,7.765,7765
+Test,Utilities and related,Utilities,Fossil fuel electric power generation,,91.696,91696
+Test,Utilities and related,Utilities,Nuclear electric power generation,,30.587,30587
+Test,Utilities and related,Utilities,"Electric power transmission, control, and distribution",,172.271,172271
+Test,Utilities and related,Utilities,Natural gas distribution,,85.548,85548
+Test,Utilities and related,Utilities,"Water, sewage and other systems",,13.956,13956
+Test,Construction and related,Construction,Nonresidential maintenance and repair,,172.357,172357
+Test,Construction and related,Construction,Residential maintenance and repair,,73.977,73977
+Test,Construction and related,Construction,Health care structures,,38.718,38718
+Test,Construction and related,Construction,Manufacturing structures,,66.973,66973
+Test,Construction and related,Construction,Power and communication structures,,94.619,94619
+Test,Construction and related,Construction,Educational and vocational structures,,87.133,87133
+Test,Construction and related,Construction,Highways and streets,,73.594,73594
+Test,Construction and related,Construction,"Commercial structures, including farm structures",,110.049,110049
+Test,Construction and related,Construction,Other nonresidential structures,,138.376,138376
+Test,Construction and related,Construction,Single-family residential structures,,221.586,221586
+Test,Construction and related,Construction,Multifamily residential structures,,56.407,56407
+Test,Construction and related,Construction,Other residential structures,,218.771,218771
+Test,Manufacturing,Wood products,Sawmills and wood preservation,,28.289,28289
+Test,Manufacturing,Wood products,"Veneer, plywood, and engineered wood product manufacturing",,20.686,20686
+Test,Manufacturing,Wood products,Millwork,,25.947,25947
+Test,Manufacturing,Wood products,All other wood product manufacturing,,21.776,21776
+Test,Manufacturing,Nonmetallic mineral products,Clay product and refractory manufacturing,,7.925,7925
+Test,Manufacturing,Nonmetallic mineral products,Glass and glass product manufacturing,,24.856,24856
+Test,Manufacturing,Nonmetallic mineral products,Cement manufacturing,,7.33,7330
+Test,Manufacturing,Nonmetallic mineral products,Ready-mix concrete manufacturing,,25.158,25158
+Test,Manufacturing,Nonmetallic mineral products,"Concrete pipe, brick, and block manufacturing",,6.218,6218
+Test,Manufacturing,Nonmetallic mineral products,Other concrete product manufacturing,,10.497,10497
+Test,Manufacturing,Nonmetallic mineral products,Lime and gypsum product manufacturing,,7.504,7504
+Test,Manufacturing,Nonmetallic mineral products,Abrasive product manufacturing,,5.694,5694
+Test,Manufacturing,Nonmetallic mineral products,Cut stone and stone product manufacturing,,4.372,4372
+Test,Manufacturing,Nonmetallic mineral products,Ground or treated mineral and earth manufacturing,,4.276,4276
+Test,Manufacturing,Nonmetallic mineral products,Mineral wool manufacturing,,5.879,5879
+Test,Manufacturing,Nonmetallic mineral products,Miscellaneous nonmetallic mineral products,,4.418,4418
+Test,Manufacturing,Primary metals,Iron and steel mills and ferroalloy manufacturing,,86.571,86571
+Test,Manufacturing,Primary metals,Steel product manufacturing from purchased steel,,20.217,20217
+Test,Manufacturing,Primary metals,Alumina refining and primary aluminum production,,5.053,5053
+Test,Manufacturing,Primary metals,Secondary smelting and alloying of aluminum,,5.971,5971
+Test,Manufacturing,Primary metals,Aluminum product manufacturing from purchased aluminum,,24.598,24598
+Test,Manufacturing,Primary metals,Primary smelting and refining of copper,,7.905,7905
+Test,Manufacturing,Primary metals,Primary smelting and refining of nonferrous metal (except copper and aluminum),,5.788,5788
+Test,Manufacturing,Primary metals,"Copper rolling, drawing, extruding and alloying",,20.467,20467
+Test,Manufacturing,Primary metals,"Nonferrous metal (except copper and aluminum) rolling, drawing, extruding and alloying",,18.391,18391
+Test,Manufacturing,Primary metals,Ferrous metal foundries,,18.451,18451
+Test,Manufacturing,Primary metals,Nonferrous metal foundries,,14.377,14377
+Test,Manufacturing,Fabricated metal products,"All other forging, stamping, and sintering",,13.55,13550
+Test,Manufacturing,Fabricated metal products,Custom roll forming,,7.591,7591
+Test,Manufacturing,Fabricated metal products,Crown and closure manufacturing and metal stamping,,10.601,10601
+Test,Manufacturing,Fabricated metal products,Cutlery and handtool manufacturing,,10.011,10011
+Test,Manufacturing,Fabricated metal products,Plate work and fabricated structural product manufacturing,,44.975,44975
+Test,Manufacturing,Fabricated metal products,Ornamental and architectural metal products manufacturing,,39.331,39331
+Test,Manufacturing,Fabricated metal products,Power boiler and heat exchanger manufacturing,,7.468,7468
+Test,Manufacturing,Fabricated metal products,Metal tank (heavy gauge) manufacturing,,9.823,9823
+Test,Manufacturing,Fabricated metal products,"Metal can, box, and other metal container (light gauge) manufacturing",,18.468,18468
+Test,Manufacturing,Fabricated metal products,Hardware manufacturing,,7.966,7966
+Test,Manufacturing,Fabricated metal products,Spring and wire product manufacturing,,9.06,9060
+Test,Manufacturing,Fabricated metal products,Machine shops,,42.626,42626
+Test,Manufacturing,Fabricated metal products,"Turned product and screw, nut, and bolt manufacturing",,29.547,29547
+Test,Manufacturing,Fabricated metal products,"Coating, engraving, heat treating and allied activities",,29.192,29192
+Test,Manufacturing,Fabricated metal products,Valve and fittings other than plumbing,,27.504,27504
+Test,Manufacturing,Fabricated metal products,Plumbing fixture fitting and trim manufacturing,,3.4,3400
+Test,Manufacturing,Fabricated metal products,Ball and roller bearing manufacturing,,7.017,7017
+Test,Manufacturing,Fabricated metal products,"Ammunition, arms, ordnance, and accessories manufacturing",,16.64,16640
+Test,Manufacturing,Fabricated metal products,Fabricated pipe and pipe fitting manufacturing,,8.219,8219
+Test,Manufacturing,Fabricated metal products,Other fabricated metal manufacturing,,32.011,32011
+Test,Manufacturing,Machinery,Farm machinery and equipment manufacturing,,28.727,28727
+Test,Manufacturing,Machinery,Lawn and garden equipment manufacturing,,9.952,9952
+Test,Manufacturing,Machinery,Construction machinery manufacturing,,42.607,42607
+Test,Manufacturing,Machinery,Mining and oil and gas field machinery manufacturing,,20.399,20399
+Test,Manufacturing,Machinery,Other industrial machinery manufacturing,,20.49,20490
+Test,Manufacturing,Machinery,Plastics and rubber industry machinery manufacturing,,3.193,3193
+Test,Manufacturing,Machinery,Semiconductor machinery manufacturing,,6.944,6944
+Test,Manufacturing,Machinery,"Vending, commercial laundry, and other commercial and service industry machinery manufacturing",,17.041,17041
+Test,Manufacturing,Machinery,Office machinery manufacturing,,2.542,2542
+Test,Manufacturing,Machinery,Optical instrument and lens manufacturing,,4.104,4104
+Test,Manufacturing,Machinery,Photographic and photocopying equipment manufacturing,,0.436,436
+Test,Manufacturing,Machinery,Air purification and ventilation equipment manufacturing,,6.634,6634
+Test,Manufacturing,Machinery,Heating equipment (except warm air furnaces) manufacturing,,4.782,4782
+Test,Manufacturing,Machinery,"Air conditioning, refrigeration, and warm air heating equipment manufacturing",,31.263,31263
+Test,Manufacturing,Machinery,Industrial mold manufacturing,,7.079,7079
+Test,Manufacturing,Machinery,Metal cutting and forming machine tool manufacturing,,8.494,8494
+Test,Manufacturing,Machinery,"Special tool, die, jig, and fixture manufacturing",,10.067,10067
+Test,Manufacturing,Machinery,"Cutting and machine tool accessory, rolling mill, and other metalworking machinery manufacturing",,9.462,9462
+Test,Manufacturing,Machinery,Turbine and turbine generator set units manufacturing,,19.007,19007
+Test,Manufacturing,Machinery,"Speed changer, industrial high-speed drive, and gear manufacturing",,3.667,3667
+Test,Manufacturing,Machinery,Mechanical power transmission equipment manufacturing,,3.634,3634
+Test,Manufacturing,Machinery,Other engine equipment manufacturing,,25.173,25173
+Test,Manufacturing,Machinery,Pump and pumping equipment manufacturing,,16.556,16556
+Test,Manufacturing,Machinery,Air and gas compressor manufacturing,,10.521,10521
+Test,Manufacturing,Machinery,Material handling equipment manufacturing,,31.315,31315
+Test,Manufacturing,Machinery,Power-driven handtool manufacturing,,3.486,3486
+Test,Manufacturing,Machinery,Other general purpose machinery manufacturing,,23.505,23505
+Test,Manufacturing,Machinery,Packaging machinery manufacturing,,5.588,5588
+Test,Manufacturing,Machinery,Industrial process furnace and oven manufacturing,,2.989,2989
+Test,Manufacturing,Machinery,Fluid power process machinery,,10.186,10186
+Test,Manufacturing,Computer and electronic products,Electronic computer manufacturing,,17.616,17616
+Test,Manufacturing,Computer and electronic products,Computer storage device manufacturing,,10.026,10026
+Test,Manufacturing,Computer and electronic products,Computer terminals and other computer peripheral equipment manufacturing,,14.49,14490
+Test,Manufacturing,Computer and electronic products,Telephone apparatus manufacturing,,9.872,9872
+Test,Manufacturing,Computer and electronic products,Broadcast and wireless communications equipment,,28.899,28899
+Test,Manufacturing,Computer and electronic products,Other communications equipment manufacturing,,6.417,6417
+Test,Manufacturing,Computer and electronic products,Audio and video equipment manufacturing,,3.198,3198
+Test,Manufacturing,Computer and electronic products,Other electronic component manufacturing,,36.381,36381
+Test,Manufacturing,Computer and electronic products,Semiconductor and related device manufacturing,,65.33,65330
+Test,Manufacturing,Computer and electronic products,Printed circuit assembly (electronic assembly) manufacturing,,23.037,23037
+Test,Manufacturing,Computer and electronic products,Electromedical and electrotherapeutic apparatus manufacturing,,31.438,31438
+Test,Manufacturing,Computer and electronic products,"Search, detection, and navigation instruments manufacturing",,52.352,52352
+Test,Manufacturing,Computer and electronic products,Automatic environmental control manufacturing,,3.616,3616
+Test,Manufacturing,Computer and electronic products,Industrial process variable instruments manufacturing,,14.117,14117
+Test,Manufacturing,Computer and electronic products,Totalizing fluid meter and counting device manufacturing,,5.82,5820
+Test,Manufacturing,Computer and electronic products,Electricity and signal testing instruments manufacturing,,12.973,12973
+Test,Manufacturing,Computer and electronic products,Analytical laboratory instrument manufacturing,,18.209,18209
+Test,Manufacturing,Computer and electronic products,Irradiation apparatus manufacturing,,14.632,14632
+Test,Manufacturing,Computer and electronic products,"Watch, clock, and other measuring and controlling device manufacturing",,13.986,13986
+Test,Manufacturing,Computer and electronic products,Manufacturing and reproducing magnetic and optical media,,4.599,4599
+Test,Manufacturing,"Electrical equipment, appliances, and components",Electric lamp bulb and part manufacturing,,1.551,1551
+Test,Manufacturing,"Electrical equipment, appliances, and components",Lighting fixture manufacturing,,10.573,10573
+Test,Manufacturing,"Electrical equipment, appliances, and components",Small electrical appliance manufacturing,,2.634,2634
+Test,Manufacturing,"Electrical equipment, appliances, and components",Household cooking appliance manufacturing,,4.68,4680
+Test,Manufacturing,"Electrical equipment, appliances, and components",Household refrigerator and home freezer manufacturing,,3.286,3286
+Test,Manufacturing,"Electrical equipment, appliances, and components",Household laundry equipment manufacturing,,3.511,3511
+Test,Manufacturing,"Electrical equipment, appliances, and components",Other major household appliance manufacturing,,4.409,4409
+Test,Manufacturing,"Electrical equipment, appliances, and components","Power, distribution, and specialty transformer manufacturing",,5.644,5644
+Test,Manufacturing,"Electrical equipment, appliances, and components",Motor and generator manufacturing,,11.393,11393
+Test,Manufacturing,"Electrical equipment, appliances, and components",Switchgear and switchboard apparatus manufacturing,,11.425,11425
+Test,Manufacturing,"Electrical equipment, appliances, and components",Relay and industrial control manufacturing,,9.934,9934
+Test,Manufacturing,"Electrical equipment, appliances, and components",Storage battery manufacturing,,6.877,6877
+Test,Manufacturing,"Electrical equipment, appliances, and components",Primary battery manufacturing,,3.478,3478
+Test,Manufacturing,"Electrical equipment, appliances, and components",Communication and energy wire and cable manufacturing,,13.388,13388
+Test,Manufacturing,"Electrical equipment, appliances, and components",Wiring device manufacturing,,14.618,14618
+Test,Manufacturing,"Electrical equipment, appliances, and components",Carbon and graphite product manufacturing,,3.273,3273
+Test,Manufacturing,"Electrical equipment, appliances, and components",All other miscellaneous electrical equipment and component manufacturing,,10.922,10922
+Test,Manufacturing,"Motor vehicles, bodies and trailers, and parts",Automobile manufacturing,,126.788,126788
+Test,Manufacturing,"Motor vehicles, bodies and trailers, and parts",Light truck and utility vehicle manufacturing,,208.948,208948
+Test,Manufacturing,"Motor vehicles, bodies and trailers, and parts",Heavy duty truck manufacturing,,31.606,31606
+Test,Manufacturing,"Motor vehicles, bodies and trailers, and parts",Motor vehicle body manufacturing,,13.599,13599
+Test,Manufacturing,"Motor vehicles, bodies and trailers, and parts",Truck trailer manufacturing,,9.884,9884
+Test,Manufacturing,"Motor vehicles, bodies and trailers, and parts",Motor home manufacturing,,4.303,4303
+Test,Manufacturing,"Motor vehicles, bodies and trailers, and parts",Travel trailer and camper manufacturing,,14.629,14629
+Test,Manufacturing,"Motor vehicles, bodies and trailers, and parts",Motor vehicle gasoline engine and engine parts manufacturing,,36.504,36504
+Test,Manufacturing,"Motor vehicles, bodies and trailers, and parts",Motor vehicle electrical and electronic equipment manufacturing,,25.795,25795
+Test,Manufacturing,"Motor vehicles, bodies and trailers, and parts","Motor vehicle steering, suspension component (except spring), and brake systems manufacturing",,27.44,27440
+Test,Manufacturing,"Motor vehicles, bodies and trailers, and parts",Motor vehicle transmission and power train parts manufacturing,,42.055,42055
+Test,Manufacturing,"Motor vehicles, bodies and trailers, and parts",Motor vehicle seating and interior trim manufacturing,,28.936,28936
+Test,Manufacturing,"Motor vehicles, bodies and trailers, and parts",Motor vehicle metal stamping,,37.653,37653
+Test,Manufacturing,"Motor vehicles, bodies and trailers, and parts",Other motor vehicle parts manufacturing,,69.906,69906
+Test,Manufacturing,Other transportation equipment,Aircraft manufacturing,,147.162,147162
+Test,Manufacturing,Other transportation equipment,Aircraft engine and engine parts manufacturing,,53.611,53611
+Test,Manufacturing,Other transportation equipment,Other aircraft parts and auxiliary equipment manufacturing,,40.841,40841
+Test,Manufacturing,Other transportation equipment,Guided missile and space vehicle manufacturing,,21.602,21602
+Test,Manufacturing,Other transportation equipment,Propulsion units and parts for space vehicles and guided missiles,,6.117,6117
+Test,Manufacturing,Other transportation equipment,Railroad rolling stock manufacturing,,17.503,17503
+Test,Manufacturing,Other transportation equipment,Ship building and repairing,,26.557,26557
+Test,Manufacturing,Other transportation equipment,Boat building,,8.96,8960
+Test,Manufacturing,Other transportation equipment,"Motorcycle, bicycle, and parts manufacturing",,6.269,6269
+Test,Manufacturing,Other transportation equipment,"Military armored vehicle, tank, and tank component manufacturing",,2.729,2729
+Test,Manufacturing,Other transportation equipment,All other transportation equipment manufacturing,,8.583,8583
+Test,Manufacturing,Furniture and related products,Wood kitchen cabinet and countertop manufacturing,,14.091,14091
+Test,Manufacturing,Furniture and related products,Upholstered household furniture manufacturing,,10.665,10665
+Test,Manufacturing,Furniture and related products,Nonupholstered wood household furniture manufacturing,,4.5,4500
+Test,Manufacturing,Furniture and related products,Other household nonupholstered furniture,,3.36,3360
+Test,Manufacturing,Furniture and related products,Institutional furniture manufacturing,,4.911,4911
+Test,Manufacturing,Furniture and related products,Office furniture and custom architectural woodwork and millwork manufacturing,,17.626,17626
+Test,Manufacturing,Furniture and related products,"Showcase, partition, shelving, and locker manufacturing",,7.399,7399
+Test,Manufacturing,Furniture and related products,Other furniture related product manufacturing,,13.168,13168
+Test,Manufacturing,Miscellaneous manufacturing,Surgical and medical instrument manufacturing,,41.423,41423
+Test,Manufacturing,Miscellaneous manufacturing,Surgical appliance and supplies manufacturing,,40.02,40020
+Test,Manufacturing,Miscellaneous manufacturing,Dental equipment and supplies manufacturing,,5.087,5087
+Test,Manufacturing,Miscellaneous manufacturing,Ophthalmic goods manufacturing,,7.481,7481
+Test,Manufacturing,Miscellaneous manufacturing,Dental laboratories,,5.721,5721
+Test,Manufacturing,Miscellaneous manufacturing,Jewelry and silverware manufacturing,,8.311,8311
+Test,Manufacturing,Miscellaneous manufacturing,Sporting and athletic goods manufacturing,,10.501,10501
+Test,Manufacturing,Miscellaneous manufacturing,"Doll, toy, and game manufacturing",,1.675,1675
+Test,Manufacturing,Miscellaneous manufacturing,Office supplies (except paper) manufacturing,,3.36,3360
+Test,Manufacturing,Miscellaneous manufacturing,Sign manufacturing,,13.647,13647
+Test,Manufacturing,Miscellaneous manufacturing,All other miscellaneous manufacturing,,29.957,29957
+Test,Manufacturing,Food and beverage and tobacco products,Dog and cat food manufacturing,,23.485,23485
+Test,Manufacturing,Food and beverage and tobacco products,Other animal food manufacturing,,34.326,34326
+Test,Manufacturing,Food and beverage and tobacco products,Flour milling and malt manufacturing,,20.104,20104
+Test,Manufacturing,Food and beverage and tobacco products,Wet corn milling,,11.273,11273
+Test,Manufacturing,Food and beverage and tobacco products,Soybean and other oilseed processing,,35.783,35783
+Test,Manufacturing,Food and beverage and tobacco products,Fats and oils refining and blending,,14.932,14932
+Test,Manufacturing,Food and beverage and tobacco products,Breakfast cereal manufacturing,,9.743,9743
+Test,Manufacturing,Food and beverage and tobacco products,Sugar and confectionery product manufacturing,,33.998,33998
+Test,Manufacturing,Food and beverage and tobacco products,Frozen food manufacturing,,32.8,32800
+Test,Manufacturing,Food and beverage and tobacco products,"Fruit and vegetable canning, pickling, and drying",,41.162,41162
+Test,Manufacturing,Food and beverage and tobacco products,Fluid milk and butter manufacturing,,36.576,36576
+Test,Manufacturing,Food and beverage and tobacco products,Cheese manufacturing,,44.688,44688
+Test,Manufacturing,Food and beverage and tobacco products,"Dry, condensed, and evaporated dairy product manufacturing",,19.607,19607
+Test,Manufacturing,Food and beverage and tobacco products,Ice cream and frozen dessert manufacturing,,7.025,7025
+Test,Manufacturing,Food and beverage and tobacco products,"Animal (except poultry) slaughtering, rendering, and processing",,148.62,148620
+Test,Manufacturing,Food and beverage and tobacco products,Poultry processing,,59.701,59701
+Test,Manufacturing,Food and beverage and tobacco products,Seafood product preparation and packaging,,11.518,11518
+Test,Manufacturing,Food and beverage and tobacco products,Bread and bakery product manufacturing,,40.202,40202
+Test,Manufacturing,Food and beverage and tobacco products,"Cookie, cracker, pasta, and tortilla manufacturing",,29.647,29647
+Test,Manufacturing,Food and beverage and tobacco products,Snack food manufacturing,,36.394,36394
+Test,Manufacturing,Food and beverage and tobacco products,Coffee and tea manufacturing,,14.868,14868
+Test,Manufacturing,Food and beverage and tobacco products,Flavoring syrup and concentrate manufacturing,,8.892,8892
+Test,Manufacturing,Food and beverage and tobacco products,Seasoning and dressing manufacturing,,20.329,20329
+Test,Manufacturing,Food and beverage and tobacco products,All other food manufacturing,,25.635,25635
+Test,Manufacturing,Food and beverage and tobacco products,Soft drink and ice manufacturing,,42.616,42616
+Test,Manufacturing,Food and beverage and tobacco products,Breweries,,37.418,37418
+Test,Manufacturing,Food and beverage and tobacco products,Wineries,,18.29,18290
+Test,Manufacturing,Food and beverage and tobacco products,Distilleries,,15.177,15177
+Test,Manufacturing,Food and beverage and tobacco products,Tobacco product manufacturing,,70.576,70576
+Test,Manufacturing,Textile mills and textile product mills,"Fiber, yarn, and thread mills",,7.956,7956
+Test,Manufacturing,Textile mills and textile product mills,Fabric mills,,14.811,14811
+Test,Manufacturing,Textile mills and textile product mills,Textile and fabric finishing and fabric coating mills,,8.176,8176
+Test,Manufacturing,Textile mills and textile product mills,Carpet and rug mills,,9.429,9429
+Test,Manufacturing,Textile mills and textile product mills,Curtain and linen mills,,3.996,3996
+Test,Manufacturing,Textile mills and textile product mills,Other textile product mills,,10.634,10634
+Test,Manufacturing,Apparel and leather and allied products,Apparel manufacturing,,25.306,25306
+Test,Manufacturing,Apparel and leather and allied products,Leather and allied product manufacturing,,7.015,7015
+Test,Manufacturing,Paper products,Pulp mills,,5.472,5472
+Test,Manufacturing,Paper products,Paper mills,,47.275,47275
+Test,Manufacturing,Paper products,Paperboard mills,,30.478,30478
+Test,Manufacturing,Paper products,Paperboard container manufacturing,,54.271,54271
+Test,Manufacturing,Paper products,Paper bag and coated and treated paper manufacturing,,22.262,22262
+Test,Manufacturing,Paper products,Stationery product manufacturing,,6.201,6201
+Test,Manufacturing,Paper products,Sanitary paper product manufacturing,,11.894,11894
+Test,Manufacturing,Paper products,All other converted paper product manufacturing,,5.066,5066
+Test,Manufacturing,Printing and related support activities,Printing,,83.93,83930
+Test,Manufacturing,Printing and related support activities,Support activities for printing,,3.908,3908
+Test,Manufacturing,Petroleum and coal products,Petroleum refineries,,457.894,457894
+Test,Manufacturing,Petroleum and coal products,Asphalt paving mixture and block manufacturing,,11.44,11440
+Test,Manufacturing,Petroleum and coal products,Asphalt shingle and coating materials manufacturing,,8.481,8481
+Test,Manufacturing,Petroleum and coal products,Other petroleum and coal products manufacturing,,20.978,20978
+Test,Manufacturing,Chemical products,Petrochemical manufacturing,,65.503,65503
+Test,Manufacturing,Chemical products,Industrial gas manufacturing,,6.744,6744
+Test,Manufacturing,Chemical products,Synthetic dye and pigment manufacturing,,7.622,7622
+Test,Manufacturing,Chemical products,Other basic inorganic chemical manufacturing,,33.408,33408
+Test,Manufacturing,Chemical products,Other basic organic chemical manufacturing,,128.701,128701
+Test,Manufacturing,Chemical products,Plastics material and resin manufacturing,,88.187,88187
+Test,Manufacturing,Chemical products,Synthetic rubber and artificial and synthetic fibers and filaments manufacturing,,15.002,15002
+Test,Manufacturing,Chemical products,Fertilizer manufacturing,,29.232,29232
+Test,Manufacturing,Chemical products,Pesticide and other agricultural chemical manufacturing,,17.175,17175
+Test,Manufacturing,Chemical products,Medicinal and botanical manufacturing,,18.057,18057
+Test,Manufacturing,Chemical products,Pharmaceutical preparation manufacturing,,207.209,207209
+Test,Manufacturing,Chemical products,In-vitro diagnostic substance manufacturing,,16.995,16995
+Test,Manufacturing,Chemical products,Biological product (except diagnostic) manufacturing,,32.236,32236
+Test,Manufacturing,Chemical products,Paint and coating manufacturing,,28.77,28770
+Test,Manufacturing,Chemical products,Adhesive manufacturing,,12.414,12414
+Test,Manufacturing,Chemical products,Soap and cleaning compound manufacturing,,38.204,38204
+Test,Manufacturing,Chemical products,Toilet preparation manufacturing,,38.785,38785
+Test,Manufacturing,Chemical products,Printing ink manufacturing,,4.544,4544
+Test,Manufacturing,Chemical products,All other chemical product and preparation manufacturing,,40.044,40044
+Test,Manufacturing,Plastics and rubber products,Plastics packaging materials and unlaminated film and sheet manufacturing,,40.709,40709
+Test,Manufacturing,Plastics and rubber products,"Plastics pipe, pipe fitting, and unlaminated profile shape manufacturing",,17.512,17512
+Test,Manufacturing,Plastics and rubber products,"Laminated plastics plate, sheet (except packaging), and shape manufacturing",,3.735,3735
+Test,Manufacturing,Plastics and rubber products,Polystyrene foam product manufacturing,,7.695,7695
+Test,Manufacturing,Plastics and rubber products,Urethane and other foam product (except polystyrene) manufacturing,,10.23,10230
+Test,Manufacturing,Plastics and rubber products,Plastics bottle manufacturing,,12.507,12507
+Test,Manufacturing,Plastics and rubber products,Other plastics product manufacturing,,91.454,91454
+Test,Manufacturing,Plastics and rubber products,Tire manufacturing,,18.974,18974
+Test,Manufacturing,Plastics and rubber products,Rubber and plastics hoses and belting manufacturing,,5.05,5050
+Test,Manufacturing,Plastics and rubber products,Other rubber product manufacturing,,17.653,17653
+Test,Trade and Retail,Wholesale trade,"Merchant wholesalers, durable goods",,784.553,784553
+Test,Trade and Retail,Wholesale trade,"Merchant wholesalers, nondurable goods",,678.719,678719
+Test,Trade and Retail,Wholesale trade,Wholesale electronic markets and agents and brokers,,52.865,52865
+Test,Trade and Retail,Wholesale trade,Wholesale trade adjustments,,38.123,38123
+Test,Trade and Retail,Retail trade,Motor vehicle and parts,,276.295,276295
+Test,Trade and Retail,Retail trade,Food and beverage,,230.751,230751
+Test,Trade and Retail,Retail trade,General merchandise,,229.596,229596
+Test,Trade and Retail,Retail trade,Other retail,,904.093,904093
+Test,Transportation and warehousing,Air transportation,Air transportation activities,,188.627,188627
+Test,Transportation and warehousing,Rail transportation,Rail transportation activities,,80.789,80789
+Test,Transportation and warehousing,Water transportation,Water transportation activities,,60.164,60164
+Test,Transportation and warehousing,Truck transportation,Truck transportation activities,,333.91,333910
+Test,Transportation and warehousing,Transit and ground passenger transportation,Transit and ground passenger transportation activities,,58.079,58079
+Test,Transportation and warehousing,Pipeline transportation,Pipeline transportation activities,,33.206,33206
+Test,Transportation and warehousing,Other transportation and support activities,Scenic and sightseeing transportation and support activities for transportation,,127.627,127627
+Test,Transportation and warehousing,Other transportation and support activities,Couriers and messengers,,98.714,98714
+Test,Transportation and warehousing,Warehousing and storage activities,,,93.708,93708
+Test,Information,"Publishing industries, except internet (includes software)",Newspaper publishers,,29.618,29618
+Test,Information,"Publishing industries, except internet (includes software)",Periodical Publishers,,39.217,39217
+Test,Information,"Publishing industries, except internet (includes software)",Book publishers,,39.309,39309
+Test,Information,"Publishing industries, except internet (includes software)","Directory, mailing list, and other publishers",,16.371,16371
+Test,Information,"Publishing industries, except internet (includes software)",Software publishers,,201.881,201881
+Test,Information,Motion picture and sound recording industries,Motion picture and video industries,,131.448,131448
+Test,Information,Motion picture and sound recording industries,Sound recording industries,,22.68,22680
+Test,Information,Broadcasting and telecommunications,Radio and television broadcasting,,86.909,86909
+Test,Information,Broadcasting and telecommunications,Cable and other subscription programming,,95.008,95008
+Test,Information,Broadcasting and telecommunications,Wired telecommunications carriers,,365.51,365510
+Test,Information,Broadcasting and telecommunications,Wireless telecommunications carriers (except satellite),,255.484,255484
+Test,Information,Broadcasting and telecommunications,"Satellite, telecommunications resellers, and all other telecommunications",,42.994,42994
+Test,Information,"Data processing, internet publishing, and other information services","Data processing, hosting, and related services",,124.268,124268
+Test,Information,"Data processing, internet publishing, and other information services","News syndicates, libraries, archives and all other information services",,10.153,10153
+Test,Information,"Data processing, internet publishing, and other information services",Internet publishing and broadcasting and Web search portals,,88.849,88849
+Test,"Finance, insurance, real estate, rental, and leasing","Federal Reserve banks, credit intermediation, and related activities",Monetary authorities and depository credit intermediation,,552.554,552554
+Test,"Finance, insurance, real estate, rental, and leasing","Federal Reserve banks, credit intermediation, and related activities",Nondepository credit intermediation and related activities,,202.86,202860
+Test,"Finance, insurance, real estate, rental, and leasing","Securities, commodity contracts, and investments",Securities and commodity contracts intermediation and brokerage,,199.382,199382
+Test,"Finance, insurance, real estate, rental, and leasing","Securities, commodity contracts, and investments",Other financial investment activities,,291.415,291415
+Test,"Finance, insurance, real estate, rental, and leasing",Insurance carriers and related activities,Insurance carriers,,634.712,634712
+Test,"Finance, insurance, real estate, rental, and leasing",Insurance carriers and related activities,"Insurance agencies, brokerages, and related activities",,255.403,255403
+Test,"Finance, insurance, real estate, rental, and leasing","Funds, trusts, and other financial vehicles","Funds, trusts, and others",,141.348,141348
+Test,"Finance, insurance, real estate, rental, and leasing",Real estate,Housing,,1919.236,1919236
+Test,"Finance, insurance, real estate, rental, and leasing",Real estate,Other real estate,,1045.908,1045908
+Test,"Finance, insurance, real estate, rental, and leasing",Rental and leasing services and lessors of intangible assets,Automotive equipment rental and leasing,,61.672,61672
+Test,"Finance, insurance, real estate, rental, and leasing",Rental and leasing services and lessors of intangible assets,Consumer goods and general rental centers,,31.987,31987
+Test,"Finance, insurance, real estate, rental, and leasing",Rental and leasing services and lessors of intangible assets,Commercial and industrial machinery and equipment rental and leasing,,76.373,76373
+Test,"Finance, insurance, real estate, rental, and leasing",Rental and leasing services and lessors of intangible assets,Lessors of nonfinancial intangible assets,,184.166,184166
+Test,Professional and business services,Legal services,Legal services activities,,321.656,321656
+Test,Professional and business services,Computer systems design and related services,Custom computer programming services,,157.254,157254
+Test,Professional and business services,Computer systems design and related services,Computer systems design services,,123.854,123854
+Test,Professional and business services,Computer systems design and related services,"Other computer related services, including facilities management",,72.053,72053
+Test,Professional and business services,"Miscellaneous professional, scientific, and technical services","Accounting, tax preparation, bookkeeping, and payroll services",,180.04,180040
+Test,Professional and business services,"Miscellaneous professional, scientific, and technical services","Architectural, engineering, and related services",,280.832,280832
+Test,Professional and business services,"Miscellaneous professional, scientific, and technical services",Specialized design services,,33.944,33944
+Test,Professional and business services,"Miscellaneous professional, scientific, and technical services",Management consulting services,,195.258,195258
+Test,Professional and business services,"Miscellaneous professional, scientific, and technical services",Environmental and other technical consulting services,,45.895,45895
+Test,Professional and business services,"Miscellaneous professional, scientific, and technical services",Scientific research and development services,,250.783,250783
+Test,Professional and business services,"Miscellaneous professional, scientific, and technical services","Advertising, public relations, and related services",,166.213,166213
+Test,Professional and business services,"Miscellaneous professional, scientific, and technical services","Marketing research and all other miscellaneous professional, scientific, and technical services",,83.645,83645
+Test,Professional and business services,"Miscellaneous professional, scientific, and technical services",Photographic services,,13.443,13443
+Test,Professional and business services,"Miscellaneous professional, scientific, and technical services",Veterinary services,,37.952,37952
+Test,Professional and business services,Management of companies and enterprises,Management of companies and enterprises activities,,630.749,630749
+Test,Professional and business services,Administrative and support services,Office administrative services,,78.231,78231
+Test,Professional and business services,Administrative and support services,Facilities support services,,35.369,35369
+Test,Professional and business services,Administrative and support services,Employment services,,278.287,278287
+Test,Professional and business services,Administrative and support services,Business support services,,76.197,76197
+Test,Professional and business services,Administrative and support services,Travel arrangement and reservation services,,51.992,51992
+Test,Professional and business services,Administrative and support services,Investigation and security services,,58.043,58043
+Test,Professional and business services,Administrative and support services,Services to buildings and dwellings,,182.292,182292
+Test,Professional and business services,Administrative and support services,Other support services,,50.734,50734
+Test,"Educational services, health care, and social assistance",Educational services,Waste management and remediation services,,92.945,92945
+Test,"Educational services, health care, and social assistance",Educational services,Elementary and secondary schools,,40.776,40776
+Test,"Educational services, health care, and social assistance",Educational services,"Junior colleges, colleges, universities, and professional schools",,209.791,209791
+Test,"Educational services, health care, and social assistance",Educational services,Other educational services,,78.412,78412
+Test,"Educational services, health care, and social assistance",Ambulatory health care services,Offices of physicians,,474.024,474024
+Test,"Educational services, health care, and social assistance",Ambulatory health care services,Offices of dentists,,119.007,119007
+Test,"Educational services, health care, and social assistance",Ambulatory health care services,Offices of other health practitioners,,98.119,98119
+Test,"Educational services, health care, and social assistance",Ambulatory health care services,Outpatient care centers,,123.634,123634
+Test,"Educational services, health care, and social assistance",Ambulatory health care services,Medical and diagnostic laboratories,,47.559,47559
+Test,"Educational services, health care, and social assistance",Ambulatory health care services,Home health care services,,86.642,86642
+Test,"Educational services, health care, and social assistance",Ambulatory health care services,Other ambulatory health care services,,43.983,43983
+Test,"Educational services, health care, and social assistance",Hospitals,Hospital activities,,802.401,802401
+Test,"Educational services, health care, and social assistance",Nursing and residential care facilities,Nursing and community care facilities,,183.776,183776
+Test,"Educational services, health care, and social assistance",Nursing and residential care facilities,"Residential mental retardation, mental health, substance abuse and other facilities",,48.268,48268
+Test,"Educational services, health care, and social assistance",Social assistance,Individual and family services,,86.093,86093
+Test,"Educational services, health care, and social assistance",Social assistance,"Community food, housing, and other relief services, including rehabilitation services",,43.422,43422
+Test,"Educational services, health care, and social assistance",Social assistance,Child day care services,,49.72,49720
+Test,"Educational services, health care, and social assistance","Performing arts, spectator sports, museums, and related activities",Performing arts companies,,31.247,31247
+Test,"Educational services, health care, and social assistance","Performing arts, spectator sports, museums, and related activities",Spectator sports,,44.999,44999
+Test,"Educational services, health care, and social assistance","Performing arts, spectator sports, museums, and related activities",Promoters of performing arts and sports and agents for public figures,,40.046,40046
+Test,"Educational services, health care, and social assistance","Performing arts, spectator sports, museums, and related activities","Independent artists, writers, and performers",,39.681,39681
+Test,"Educational services, health care, and social assistance","Performing arts, spectator sports, museums, and related activities","Museums, historical sites, zoos, and parks",,13.358,13358
+Test,"Educational services, health care, and social assistance","Amusements, gambling, and recreation industries",Amusement parks and arcades,,27.119,27119
+Test,"Educational services, health care, and social assistance","Amusements, gambling, and recreation industries",Gambling industries (except casino hotels),,40.095,40095
+Test,"Educational services, health care, and social assistance","Amusements, gambling, and recreation industries",Other amusement and recreation industries,,80.397,80397
+Test,"Educational services, health care, and social assistance",Accommodation,Accommodation activities,,243.394,243394
+Test,"Educational services, health care, and social assistance",Food services and drinking places,Full-service restaurants,,329.38,329380
+Test,"Educational services, health care, and social assistance",Food services and drinking places,Limited-service restaurants,,353.599,353599
+Test,"Educational services, health care, and social assistance",Food services and drinking places,All other food and drinking places,,40.497,40497
+Test,"Other services, except government","Other services, except government activities",Automotive repair and maintenance,,126.138,126138
+Test,"Other services, except government","Other services, except government activities",Electronic and precision equipment repair and maintenance,,20.572,20572
+Test,"Other services, except government","Other services, except government activities",Commercial and industrial machinery and equipment repair and maintenance,,39.545,39545
+Test,"Other services, except government","Other services, except government activities",Personal and household goods repair and maintenance,,25.105,25105
+Test,"Other services, except government","Other services, except government activities",Personal care services,,84.725,84725
+Test,"Other services, except government","Other services, except government activities",Death care services,,22.422,22422
+Test,"Other services, except government","Other services, except government activities",Dry-cleaning and laundry services,,29.555,29555
+Test,"Other services, except government","Other services, except government activities",Other personal services,,67.595,67595
+Test,"Other services, except government","Other services, except government activities",Religious organizations,,85.949,85949
+Test,"Other services, except government","Other services, except government activities","Grantmaking, giving, and social advocacy organizations",,59.118,59118
+Test,"Other services, except government","Other services, except government activities","Civic, social, professional, and similar organizations",,81.068,81068
+Test,"Other services, except government","Other services, except government activities",Private households,,21.471,21471
+Test,Government,Federal general government,Federal general government (defense),,617.024,617024
+Test,Government,Federal general government,Federal general government (nondefense),,394.935,394935
+Test,Government,Federal government enterprises,Postal service,,62.457,62457
+Test,Government,Federal government enterprises,Federal electric utilities,,13.532,13532
+Test,Government,Federal government enterprises,Other federal government enterprises,,16.522,16522
+Test,Government,State and local general government,State and local general government activities,,2129.177,2129177
+Test,Government,State and local government enterprises,State and local government passenger transit,,15.919,15919
+Test,Government,State and local government enterprises,State and local government electric utilities,,35.724,35724
+Test,Government,State and local government enterprises,Other state and local government enterprises,,234.408,234408
