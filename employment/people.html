@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+html {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: auto;
+  width: 1500px;
+}
+
+form {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+path {
+  stroke: #fff;
+  fill-rule: evenodd;
+}
+
+circle,
+path {
+  cursor: pointer;
+}
+
+circle {
+  fill: none;
+  pointer-events: all;
+}
+
+h1, h4 {
+  text-align: center;
+}
+
+#tooltip { background-color: white;
+			  padding: 3px 5px;
+			  border: 1px solid black;
+			  text-align: center;
+}
+
+</style>
+<head>
+  <h1> Employment by NAICS Code</h1>
+  <h4> Units: Thousands of people </h4>
+</head>
+<body>
+<script src="//d3js.org/d3.v3.min.js"></script>
+<script>
+
+var width = 1500,
+    height = 700,
+    radius = Math.min(width, height) / 2.5;
+
+function filter_min_arc_size_text(d, i) {
+  return (d.depth == 0) || (d.depth == 1)
+};
+
+var counterLeft = 0;
+var counterRight = 0;
+var innerCounterLeft = 0;
+var innerCounterRight = 0;
+
+function transformLayer(d, num) {
+  var xpos, ypos;
+  if (d.x < .5) {
+    xpos = 1.2* radius;
+    counterRight++
+    ypos = counterRight * 80 - 350;
+  } else {
+    xpos = -2.5 * radius;
+    counterLeft++
+    ypos = counterLeft * 80 - 350;
+  }
+
+  if(counterLeft + counterRight == num) {
+    counterLeft = 0;
+    counterRight = 0;
+  }
+  return xpos + "," + ypos;
+
+}
+
+function transformInner(d) {
+  var xpos, ypos;
+  if (innerCounterRight < 10) {
+    xpos = 1.2* radius;
+    innerCounterRight++;
+    ypos = innerCounterRight * 75 - 350;
+  } else if (innerCounterLeft < 10){
+    xpos = -2.5 * radius;
+    innerCounterLeft++
+    ypos = innerCounterLeft * 75 - 350;
+  } else {
+    xpos = 10000;
+    ypos = 10000;
+  }
+  return xpos + "," + ypos;
+}
+
+var x = d3.scale.linear()
+    .range([0, 2 * Math.PI]);
+
+var y = d3.scale.sqrt()
+    .range([0, radius]);
+
+var tooltip = d3.select("body")
+    .append("div")
+    .attr("id", "tooltip")
+    .style("position", "absolute")
+    .style("z-index", "10")
+    .style("opacity", 0);
+
+function format_description(d) {
+      return  '<b>' + d.name + '</b> \n' + format_number(d.value);
+}
+
+var color = d3.scale.category20c();
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height)
+  .append("g")
+    .attr("transform", "translate(" + width / 2 + "," + (height / 2 + 10) + ")");
+
+var partition = d3.layout.partition()
+    .sort(function(a, b) { return d3.ascending(a.name, b.name); })
+    .value(function(d) { return d.size; });
+
+var arc = d3.svg.arc()
+    .startAngle(function(d) { return Math.max(0, Math.min(2 * Math.PI, x(d.x))); })
+    .endAngle(function(d) { return Math.max(0, Math.min(2 * Math.PI, x(d.x + d.dx))); })
+    .innerRadius(function(d) { return Math.max(0, y(d.y)); })
+    .outerRadius(function(d) { return Math.max(0, y(d.y + d.dy)); });
+
+// Keep track of the node that is currently being displayed as the root.
+var node;
+
+d3.json("/data/employment.json", function(error, root) {
+  node = root;
+
+  var g = svg.selectAll("g")
+     .data(partition.nodes(root))
+   .enter().append("g");
+
+  var path = g.append("path")
+      .attr("d", arc)
+      .style("fill", function(d) { return color((d.children ? d : d.parent).name); })
+      .on("click", click)
+      .on("mouseover", mouseOverArc)
+      .on("mousemove", mouseMoveArc)
+      .on("mouseout", mouseOutArc)
+      .each(stash);
+
+
+  var text = g.append("text")
+      .attr("opacity", 0)
+      .text(function(d) { return d.name.substring(0, 50) + ": " + d.value; });
+
+
+  var firstLayer = g.selectAll("text").filter(function(d) {return d.depth < 2});
+  numFirstLayer = firstLayer.size()
+
+  firstLayer
+    .attr("opacity", 1)
+    .attr("transform", function(d) { return "translate(" + transformLayer(d, numFirstLayer) + ")"; })
+
+  function click(d) {
+
+    text.transition().attr("opacity", 0);
+
+    node = d;
+    path.transition()
+      .duration(1000)
+      .attrTween("d", arcTweenZoom(d))
+      .each("end", function(e, i) {
+          // check if the animated element's data e lies within the visible angle span given in d
+          if (d.depth == 0) {
+            firstLayer
+              .transition().duration(500)
+              .attr("opacity", 1)
+              .attr("transform", function(d) { return "translate(" + transformLayer(d, numFirstLayer) + ")"; })
+
+          } else if (e.x >= d.x && e.x < (d.x + d.dx)) {
+
+            var arcText = d3.select(this.parentNode).select("text");
+            arcText.transition().duration(750)
+                .attr("opacity", 1)
+                .attr("transform", function(d) { return "translate(" + transformInner(d) + ")"; })
+          }
+      });
+      innerCounterLeft = 0;
+      innerCounterRight = 0;
+  }
+
+
+
+
+});
+
+d3.select(self.frameElement).style("height", height + "px");
+
+function computeTextRotation(d) {
+  return (x(d.x + d.dx / 2) - Math.PI / 2) / Math.PI * 180;
+}
+
+function format_number(x) {
+  return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+}
+
+function mouseOverArc(d) {
+     d3.select(this).attr("stroke","black")
+
+        tooltip.html(format_description(d));
+        return tooltip.transition()
+          .duration(50)
+          .style("opacity", 0.9);
+      }
+
+function mouseOutArc(){
+  d3.select(this).attr("stroke","")
+  return tooltip.style("opacity", 0);
+}
+
+function mouseMoveArc (d) {
+          return tooltip
+            .style("top", (d3.event.pageY-10)+"px")
+            .style("left", (d3.event.pageX+10)+"px");
+}
+
+
+// Setup for switching data: stash the old values for transition.
+function stash(d) {
+  d.x0 = d.x;
+  d.dx0 = d.dx;
+}
+
+// When switching data: interpolate the arcs in data space.
+function arcTweenData(a, i) {
+  var oi = d3.interpolate({x: a.x0, dx: a.dx0}, a);
+  function tween(t) {
+    var b = oi(t);
+    a.x0 = b.x;
+    a.dx0 = b.dx;
+    return arc(b);
+  }
+  if (i == 0) {
+   // If we are on the first arc, adjust the x domain to match the root node
+   // at the current zoom level. (We only need to do this once.)
+    var xd = d3.interpolate(x.domain(), [node.x, node.x + node.dx]);
+    return function(t) {
+      x.domain(xd(t));
+      return tween(t);
+    };
+  } else {
+    return tween;
+  }
+}
+
+// When zooming: interpolate the scales.
+function arcTweenZoom(d) {
+  var xd = d3.interpolate(x.domain(), [d.x, d.x + d.dx]),
+      yd = d3.interpolate(y.domain(), [d.y, 1]),
+      yr = d3.interpolate(y.range(), [d.y ? 20 : 0, radius]);
+  return function(d, i) {
+    return i
+        ? function(t) { return arc(d); }
+        : function(t) { x.domain(xd(t)); y.domain(yd(t)).range(yr(t)); return arc(d); };
+  };
+}
+
+</script>

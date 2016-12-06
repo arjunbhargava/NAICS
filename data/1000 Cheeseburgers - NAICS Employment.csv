@@ -1,0 +1,358 @@
+source_name,target_name,value
+"Total, 16 years and over","Agriculture, forestry, fishing, and hunting",
+"Total, 16 years and over","Mining, quarrying, and oil and gas extraction",
+"Total, 16 years and over",Construction,9935.00
+"Total, 16 years and over",Manufacturing,
+"Total, 16 years and over",Wholesale and retail trade,
+"Total, 16 years and over",Transportation and utilities,
+"Total, 16 years and over",Information,
+"Total, 16 years and over",Financial activities,
+"Total, 16 years and over",Professional and business services,
+"Total, 16 years and over",Education and health services,
+"Total, 16 years and over",Leisure and hospitality,
+"Total, 16 years and over",Other services,
+"Total, 16 years and over",Public administration,
+,,
+"Agriculture, forestry, fishing, and hunting",Crop production,1219.00
+"Agriculture, forestry, fishing, and hunting",Animal production and aquaculture,847.00
+"Agriculture, forestry, fishing, and hunting","Forestry, except logging",49.00
+"Agriculture, forestry, fishing, and hunting",Logging,83.00
+"Agriculture, forestry, fishing, and hunting","Fishing, hunting, and trapping",56.00
+"Agriculture, forestry, fishing, and hunting",Support activities for agriculture and forestry,168.00
+,,
+"Mining, quarrying, and oil and gas extraction",Oil and gas extraction,103.00
+"Mining, quarrying, and oil and gas extraction",Coal mining,68.00
+"Mining, quarrying, and oil and gas extraction",Metal ore mining,45.00
+"Mining, quarrying, and oil and gas extraction",Nonmetallic mineral mining and quarrying,86.00
+"Mining, quarrying, and oil and gas extraction",Not specified type of mining,7.00
+"Mining, quarrying, and oil and gas extraction",Support activities for mining,609.00
+,,
+,,
+,,
+,,
+Manufacturing,Nonmetallic mineral products manufacturing,
+Manufacturing,Primary metals and fabricated metal products manufacturing,
+Manufacturing,Machinery manufacturing,
+Manufacturing,Computers and electronic products manufacturing,
+Manufacturing,Electrical equipment and appliances manufacturing,
+Manufacturing,Transportation equipment manufacturing,
+Manufacturing,Wood products manufacturing,
+Manufacturing,Furniture and related product manufacturing,
+Manufacturing,Miscellaneous manufacturing,
+Manufacturing,Food manufacturing,
+Manufacturing,Beverage and tobacco products manufacturing,
+Manufacturing,"Textiles, apparel, and leather manufacturing",
+Manufacturing,Paper manufacturing and printing,
+Manufacturing,Petroleum and coal products manufacturing,
+Manufacturing,Chemicals manufacturing,
+Manufacturing,Plastics and rubber products manufacturing,
+,,
+Nonmetallic mineral products manufacturing,"Pottery, ceramics, and plumbing fixture manufacturing",23.00
+Nonmetallic mineral products manufacturing,Clay building material and refractories manufacturing,24.00
+Nonmetallic mineral products manufacturing,Glass and glass product manufacturing,148.00
+Nonmetallic mineral products manufacturing,"Cement, concrete, lime, and gypsum product manufacturing",180.00
+Nonmetallic mineral products manufacturing,Miscellaneous nonmetallic mineral product manufacturing,82.00
+,,
+Primary metals and fabricated metal products manufacturing,Iron and steel mills and steel product manufacturing,303.00
+Primary metals and fabricated metal products manufacturing,Aluminum production and processing,68.00
+Primary metals and fabricated metal products manufacturing,"Nonferrous metal, except aluminum, production and processing",60.00
+Primary metals and fabricated metal products manufacturing,Foundries,88.00
+Primary metals and fabricated metal products manufacturing,Metal forgings and stampings,64.00
+Primary metals and fabricated metal products manufacturing,Cutlery and hand tool manufacturing,39.00
+Primary metals and fabricated metal products manufacturing,"Structural metals, and boiler, tank, and shipping container manufacturing",375.00
+Primary metals and fabricated metal products manufacturing,"Machine shops; turned product; screw, nut, and bolt manufacturing",300.00
+Primary metals and fabricated metal products manufacturing,"Coating, engraving, heat treating and allied activities",67.00
+Primary metals and fabricated metal products manufacturing,Ordnance,49.00
+Primary metals and fabricated metal products manufacturing,Miscellaneous fabricated metal products manufacturing,283.00
+Primary metals and fabricated metal products manufacturing,Not specified metal industries,30.00
+,,
+Machinery manufacturing,Agricultural implement manufacturing,132.00
+Machinery manufacturing,"Construction, and mining and oil and gas field machinery manufacturing",203.00
+Machinery manufacturing,Commercial and service industry machinery manufacturing,72.00
+Machinery manufacturing,Metalworking machinery manufacturing,138.00
+Machinery manufacturing,"Engine, turbine, and power transmission equipment manufacturing",61.00
+Machinery manufacturing,"Machinery manufacturing, n.e.c.",654.00
+Machinery manufacturing,Not specified machinery manufacturing,10.00
+Machinery manufacturing,"Machine shops; turned product; screw, nut, and bolt manufacturing",300.00
+Machinery manufacturing,"Coating, engraving, heat treating and allied activities",67.00
+Machinery manufacturing,Ordnance,49.00
+Machinery manufacturing,Miscellaneous fabricated metal products manufacturing,283.00
+Machinery manufacturing,Not specified metal industries,30.00
+,,
+Computers and electronic products manufacturing,Computer and peripheral equipment manufacturing,212.00
+Computers and electronic products manufacturing,"Communications, and audio and video equipment manufacturing",127.00
+Computers and electronic products manufacturing,"Navigational, measuring, electromedical, and control instruments manufacturing",220.00
+Computers and electronic products manufacturing,"Electronic component and product manufacturing, n.e.c.",612.00
+,,
+Electrical equipment and appliances manufacturing,Household appliance manufacturing,87.00
+Electrical equipment and appliances manufacturing,"Electrical lighting and electrical equipment manufacturing, and other electrical component manufacturing, n.e.c.",290.00
+,,
+Transportation equipment manufacturing,Motor vehicles and motor vehicle equipment manufacturing,1284.00
+Transportation equipment manufacturing,Aircraft and parts manufacturing,734.00
+Transportation equipment manufacturing,Aerospace product and parts manufacturing,102.00
+Transportation equipment manufacturing,Railroad rolling stock manufacturing,39.00
+Transportation equipment manufacturing,Ship and boat building,157.00
+Transportation equipment manufacturing,Other transportation equipment manufacturing,50.00
+,,
+Wood products manufacturing,Sawmills and wood preservation,119.00
+Wood products manufacturing,"Veneer, plywood, and engineered wood products",45.00
+Wood products manufacturing,Prefabricated wood buildings and mobile homes,37.00
+Wood products manufacturing,Miscellaneous wood products,209.00
+,,
+Furniture and related product manufacturing,Furniture and related product manufacturing,425.00
+,,
+Miscellaneous manufacturing,Medical equipment and supplies manufacturing,585.00
+Miscellaneous manufacturing,"Sporting and athletic goods, and doll, toy and game manufacturing",110.00
+Miscellaneous manufacturing,"Miscellaneous manufacturing, n.e.c.",531.00
+Miscellaneous manufacturing,Not specified manufacturing industries,281.00
+,,
+Food manufacturing,"Animal food, grain, and oilseed milling",142.00
+Food manufacturing,Sugar and confectionery products,80.00
+Food manufacturing,Fruit and vegetable preserving and specialty food manufacturing,173.00
+Food manufacturing,Dairy product manufacturing,136.00
+Food manufacturing,Animal slaughtering and processing,510.00
+Food manufacturing,Retail bakeries,256.00
+Food manufacturing,"Bakeries and tortilla manufacturing, except retail bakeries",199.00
+Food manufacturing,"Seafood and other miscellaneous foods, n.e.c.",201.00
+Food manufacturing,Not specified food industries,54.00
+,,
+Beverage and tobacco products manufacturing,Beverage manufacturing,254.00
+Beverage and tobacco products manufacturing,Tobacco manufacturing,28.00
+,,
+"Textiles, apparel, and leather manufacturing","Fiber, yarn, and thread mills",14.00
+"Textiles, apparel, and leather manufacturing","Fabric mills, except knitting mills",109.00
+"Textiles, apparel, and leather manufacturing",Textile and fabric finishing and coating mills,13.00
+"Textiles, apparel, and leather manufacturing",Carpet and rug mills,77.00
+"Textiles, apparel, and leather manufacturing","Textile product mills, except carpet and rug",88.00
+"Textiles, apparel, and leather manufacturing","Knitting fabric mills, and apparel knitting mills",16.00
+"Textiles, apparel, and leather manufacturing",Cut and sew apparel manufacturing,247.00
+"Textiles, apparel, and leather manufacturing",Apparel accessories and other apparel manufacturing,7.00
+"Textiles, apparel, and leather manufacturing",Footwear manufacturing,41.00
+"Textiles, apparel, and leather manufacturing",Leather tanning and finishing and other allied products manufacturing,16.00
+,,
+Paper manufacturing and printing,"Pulp, paper, and paperboard mills",206.00
+Paper manufacturing and printing,Paperboard container manufacturing,92.00
+Paper manufacturing and printing,Miscellaneous paper and pulp products,83.00
+Paper manufacturing and printing,Printing and related support activities,509.00
+,,
+Petroleum and coal products manufacturing,Petroleum refining,183.00
+Petroleum and coal products manufacturing,Miscellaneous petroleum and coal products,24.00
+,,
+Chemicals manufacturing,"Resin, synthetic rubber and fibers, and filaments manufacturing",162.00
+Chemicals manufacturing,Agricultural chemical manufacturing,37.00
+Chemicals manufacturing,Pharmaceutical and medicine manufacturing,521.00
+Chemicals manufacturing,"Paint, coating, and adhesive manufacturing",71.00
+Chemicals manufacturing,"Soap, cleaning compound, and cosmetics manufacturing",146.00
+Chemicals manufacturing,Industrial and miscellaneous chemicals,430.00
+,,
+Plastics and rubber products manufacturing,Plastics product manufacturing,372.00
+Plastics and rubber products manufacturing,Tire manufacturing,56.00
+Plastics and rubber products manufacturing,"Rubber product, except tire, manufacturing",76.00
+,,
+Wholesale and retail trade,Wholesale trade,
+Wholesale and retail trade,Retail trade,
+,,
+Wholesale trade,Motor vehicle and motor vehicle parts and supplies merchant wholesalers,162.00
+Wholesale trade,Furniture and home furnishing merchant wholesalers,79.00
+Wholesale trade,Lumber and other construction materials merchant wholesalers,171.00
+Wholesale trade,Professional and commercial equipment and supplies merchant wholesalers,338.00
+Wholesale trade,"Metals and minerals, except petroleum merchant wholesalers",53.00
+Wholesale trade,Household appliances and electrical and electronic goods merchant wholesalers,217.00
+Wholesale trade,"Hardware, plumbing and heating equipment, and supplies merchant wholesalers",139.00
+Wholesale trade,"Machinery, equipment, and supplies merchant wholesalers",368.00
+Wholesale trade,Recyclable material merchant wholesalers,102.00
+Wholesale trade,Miscellaneous durable goods merchant wholesalers,97.00
+Wholesale trade,Paper and paper products merchant wholesalers,54.00
+Wholesale trade,"Drugs, sundries, and chemical and allied products merchant wholesalers",226.00
+Wholesale trade,"Apparel, piece goods, and notions merchant wholesalers",121.00
+Wholesale trade,Grocery and related product merchant wholesalers,842.00
+Wholesale trade,Farm product raw material merchant wholesalers,73.00
+Wholesale trade,Petroleum and petroleum products merchant wholesalers,108.00
+Wholesale trade,Alcoholic beverages merchant wholesalers,116.00
+Wholesale trade,Farm supplies merchant wholesalers,61.00
+Wholesale trade,Miscellaneous nondurable goods merchant wholesalers,184.00
+Wholesale trade,Wholesale electronic markets and agents and brokers,66.00
+Wholesale trade,Not specified wholesale trade,57.00
+,,
+Retail trade,Automobile dealers,1321.00
+Retail trade,Other motor vehicle dealers,153.00
+Retail trade,"Automotive parts, accessories, and tire stores",530.00
+Retail trade,Furniture and home furnishings stores,554.00
+Retail trade,Household appliance stores,65.00
+Retail trade,Electronics stores,588.00
+Retail trade,Building material and supplies dealers,982.00
+Retail trade,Hardware stores,199.00
+Retail trade,Lawn and garden equipment and supplies stores,267.00
+Retail trade,Grocery stores,2784.00
+Retail trade,Specialty food stores,249.00
+Retail trade,"Beer, wine, and liquor stores",137.00
+Retail trade,Pharmacies and drug stores,913.00
+Retail trade,"Health and personal care, except drug, stores",395.00
+Retail trade,Gasoline stations,533.00
+Retail trade,Clothing stores,1055.00
+Retail trade,Shoe stores,177.00
+Retail trade,"Jewelry, luggage, and leather goods stores",183.00
+Retail trade,"Sporting goods, and hobby and toy stores",499.00
+Retail trade,"Sewing, needlework, and piece goods stores",63.00
+Retail trade,Musical instrument and supplies stores,43.00
+Retail trade,Book stores and news dealers,112.00
+Retail trade,Department stores and discount stores,2090.00
+Retail trade,Miscellaneous general merchandise stores,569.00
+Retail trade,Retail florists,100.00
+Retail trade,Office supplies and stationery stores,153.00
+Retail trade,Used merchandise stores,272.00
+Retail trade,"Gift, novelty, and souvenir shops",108.00
+Retail trade,Miscellaneous retail stores,472.00
+Retail trade,Electronic shopping,285.00
+Retail trade,Electronic auctions,29.00
+Retail trade,Mail-order houses,85.00
+Retail trade,Vending machine operators,57.00
+Retail trade,Fuel dealers,83.00
+Retail trade,Other direct selling establishments,171.00
+Retail trade,Not specified retail trade,407.00
+,,
+Transportation and utilities,Transportation and warehousing,
+Transportation and utilities,Utilities,
+,,
+Transportation and warehousing,Air transportation,539.00
+Transportation and warehousing,Rail transportation,246.00
+Transportation and warehousing,Water transportation,68.00
+Transportation and warehousing,Truck transportation,2018.00
+Transportation and warehousing,Bus service and urban transit,481.00
+Transportation and warehousing,Taxi and limousine service,337.00
+Transportation and warehousing,Pipeline transportation,49.00
+Transportation and warehousing,Scenic and sightseeing transportation,31.00
+Transportation and warehousing,Services incidental to transportation,819.00
+Transportation and warehousing,Postal Service,658.00
+Transportation and warehousing,Couriers and messengers,748.00
+Transportation and warehousing,Warehousing and storage,465.00
+,,
+Utilities,"Electric power generation, transmission, and distribution",661.00
+Utilities,Natural gas distribution,128.00
+Utilities,"Electric and gas, and other combinations",85.00
+Utilities,"Water, steam, air-conditioning, and irrigation systems",270.00
+Utilities,Sewage treatment facilities,92.00
+Utilities,Not specified utilities,31.00
+,,
+Information,Newspaper publishers,191.00
+Information,"Periodical, book, and directory publishers",264.00
+Information,Software publishers,91.00
+Information,Motion pictures and video industries,398.00
+Information,Sound recording industries,53.00
+Information,Radio and television broadcasting and cable subscription programming,593.00
+Information,Internet publishing and broadcasting and web search portals,114.00
+Information,Wired telecommunications carriers,502.00
+Information,Other telecommunications services,430.00
+Information,"Data processing, hosting, and related services",104.00
+Information,Libraries and archives,196.00
+Information,Other information services,50.00
+,,
+Financial activities,Finance and insurance,
+Financial activities,Real estate and rental and leasing,
+,,
+Finance and insurance,Banking and related activities,2051.00
+Finance and insurance,"Savings institutions, including credit unions",220.00
+Finance and insurance,Nondepository credit and related activities,998.00
+Finance and insurance,"Securities, commodities, funds, trusts, and other financial investments",1082.00
+Finance and insurance,Insurance carriers and related activities,2730.00
+,,
+Real estate and rental and leasing,Real estate,2617.00
+Real estate and rental and leasing,Automotive equipment rental and leasing,174.00
+Real estate and rental and leasing,Video tape and disk rental,11.00
+Real estate and rental and leasing,Other consumer goods rental,92.00
+Real estate and rental and leasing,"Commercial, industrial, and other intangible assets rental and leasing",111.00
+,,
+Professional and business services,Professional and technical services,
+Professional and business services,"Management, administrative, and waste services",
+,,
+Professional and technical services,Legal services,1595.00
+Professional and technical services,"Accounting, tax preparation, bookkeeping, and payroll services",1095.00
+Professional and technical services,"Architectural, engineering, and related services",1521.00
+Professional and technical services,Specialized design services,395.00
+Professional and technical services,Computer systems design and related services,2542.00
+Professional and technical services,"Management, scientific, and technical consulting services",1554.00
+Professional and technical services,Scientific research and development services,572.00
+Professional and technical services,"Advertising, public relations, and related services",559.00
+Professional and technical services,Veterinary services,349.00
+Professional and technical services,"Other professional, scientific, and technical services",443.00
+,,
+"Management, administrative, and waste services",Management of companies and enterprises,193.00
+"Management, administrative, and waste services",Employment services,978.00
+"Management, administrative, and waste services",Business support services,803.00
+"Management, administrative, and waste services",Travel arrangements and reservation services,299.00
+"Management, administrative, and waste services",Investigation and security services,782.00
+"Management, administrative, and waste services",Services to buildings and dwellings,1518.00
+"Management, administrative, and waste services",Landscaping services,1356.00
+"Management, administrative, and waste services",Other administrative and other support services,300.00
+"Management, administrative, and waste services",Waste management and remediation services,552.00
+,,
+Education and health services,Educational services,
+Education and health services,Health care and social assistance,
+,,
+Educational services,Elementary and secondary schools,8892.00
+Educational services,"Colleges, universities, and professional schools, including junior colleges",3792.00
+Educational services,"Business, technical, and trade schools and training",107.00
+Educational services,"Other schools and instruction, and educational support services",811.00
+,,
+Health care and social assistance,Hospitals,6698.00
+Health care and social assistance,Offices of physicians,1678.00
+Health care and social assistance,Offices of dentists,895.00
+Health care and social assistance,Offices of chiropractors,152.00
+Health care and social assistance,Offices of optometrists,141.00
+Health care and social assistance,Offices of other health practitioners,334.00
+Health care and social assistance,Outpatient care centers,1623.00
+Health care and social assistance,Home health care services,1379.00
+Health care and social assistance,Other health care services,1331.00
+Health care and social assistance,Nursing care facilities (skilled nursing facilities),1830.00
+Health care and social assistance,"Residential care facilities, except skilled nursing facilities",802.00
+,,
+Health care and social assistance,Individual and family services,1493.00
+Health care and social assistance,"Community food and housing, and emergency services",113.00
+Health care and social assistance,Vocational rehabilitation services,115.00
+Health care and social assistance,Child day care services,1492.00
+,,
+Leisure and hospitality,"Arts, entertainment, and recreation",
+Leisure and hospitality,Accommodation and food services,
+,,
+"Arts, entertainment, and recreation","Independent artists, performing arts, spectator sports, and related industries",879.00
+"Arts, entertainment, and recreation","Museums, art galleries, historical sites, and similar institutions",353.00
+"Arts, entertainment, and recreation",Bowling centers,39.00
+"Arts, entertainment, and recreation","Other amusement, gambling, and recreation industries",1913.00
+,,
+Accommodation and food services,Traveler accommodation,1481.00
+Accommodation and food services,"Recreational vehicle parks and camps, and rooming and boarding houses",91.00
+Accommodation and food services,Restaurants and other food services,8835.00
+Accommodation and food services,"Drinking places, alcoholic beverages",231.00
+,,
+Other services,Repair and maintenence,
+Other services,Personal and laundry services,
+Other services,Membership associations and organizations,
+Other services,Private households,798.00
+,,
+Repair and maintenence,Automotive repair and maintenance,1275.00
+Repair and maintenence,Car washes,167.00
+Repair and maintenence,Electronic and precision equipment repair and maintenance,141.00
+Repair and maintenence,Commercial and industrial machinery and equipment repair and maintenance,328.00
+Repair and maintenence,Personal and household goods repair and maintenance,200.00
+Repair and maintenence,Footwear and leather goods repair,1.00
+,,
+Personal and laundry services,Barber shops,115.00
+Personal and laundry services,Beauty salons,908.00
+Personal and laundry services,Nail salons and other personal care services,496.00
+Personal and laundry services,Drycleaning and laundry services,255.00
+Personal and laundry services,"Funeral homes, and cemeteries and crematories",129.00
+Personal and laundry services,Other personal services,429.00
+,,
+Membership associations and organizations,Religious organizations,1093.00
+Membership associations and organizations,"Civic, social, advocacy organizations, and grantmaking and giving services",717.00
+Membership associations and organizations,Labor unions,66.00
+Membership associations and organizations,"Business, professional, political, and similar organizations",144.00
+,,
+Public administration,Executive offices and legislative bodies,1000.00
+Public administration,Public finance activities,322.00
+Public administration,Other general government and support,138.00
+Public administration,"Justice, public order, and safety activities",2856.00
+Public administration,Administration of human resource programs,1000.00
+Public administration,Administration of environmental quality and housing programs,260.00
+Public administration,Administration of economic programs and space research,554.00
+Public administration,National security and international affairs,799.00

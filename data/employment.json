@@ -1,0 +1,1288 @@
+{
+    "name": "Total, 16 years and over", 
+    "children": [
+        {
+            "name": "Agriculture, forestry, fishing, and hunting", 
+            "children": [
+                {
+                    "name": "Crop production", 
+                    "size": "1219.00"
+                }, 
+                {
+                    "name": "Animal production and aquaculture", 
+                    "size": "847.00"
+                }, 
+                {
+                    "name": "Forestry, except logging", 
+                    "size": "49.00"
+                }, 
+                {
+                    "name": "Logging", 
+                    "size": "83.00"
+                }, 
+                {
+                    "name": "Fishing, hunting, and trapping", 
+                    "size": "56.00"
+                }, 
+                {
+                    "name": "Support activities for agriculture and forestry", 
+                    "size": "168.00"
+                }
+            ]
+        }, 
+        {
+            "name": "Mining, quarrying, and oil and gas extraction", 
+            "children": [
+                {
+                    "name": "Oil and gas extraction", 
+                    "size": "103.00"
+                }, 
+                {
+                    "name": "Coal mining", 
+                    "size": "68.00"
+                }, 
+                {
+                    "name": "Metal ore mining", 
+                    "size": "45.00"
+                }, 
+                {
+                    "name": "Nonmetallic mineral mining and quarrying", 
+                    "size": "86.00"
+                }, 
+                {
+                    "name": "Not specified type of mining", 
+                    "size": "7.00"
+                }, 
+                {
+                    "name": "Support activities for mining", 
+                    "size": "609.00"
+                }
+            ]
+        }, 
+        {
+            "name": "Construction", 
+            "size": "9935.00"
+        }, 
+        {
+            "name": "Manufacturing", 
+            "children": [
+                {
+                    "name": "Nonmetallic mineral products manufacturing", 
+                    "children": [
+                        {
+                            "name": "Pottery, ceramics, and plumbing fixture manufacturing", 
+                            "size": "23.00"
+                        }, 
+                        {
+                            "name": "Clay building material and refractories manufacturing", 
+                            "size": "24.00"
+                        }, 
+                        {
+                            "name": "Glass and glass product manufacturing", 
+                            "size": "148.00"
+                        }, 
+                        {
+                            "name": "Cement, concrete, lime, and gypsum product manufacturing", 
+                            "size": "180.00"
+                        }, 
+                        {
+                            "name": "Miscellaneous nonmetallic mineral product manufacturing", 
+                            "size": "82.00"
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Primary metals and fabricated metal products manufacturing", 
+                    "children": [
+                        {
+                            "name": "Iron and steel mills and steel product manufacturing", 
+                            "size": "303.00"
+                        }, 
+                        {
+                            "name": "Aluminum production and processing", 
+                            "size": "68.00"
+                        }, 
+                        {
+                            "name": "Nonferrous metal, except aluminum, production and processing", 
+                            "size": "60.00"
+                        }, 
+                        {
+                            "name": "Foundries", 
+                            "size": "88.00"
+                        }, 
+                        {
+                            "name": "Metal forgings and stampings", 
+                            "size": "64.00"
+                        }, 
+                        {
+                            "name": "Cutlery and hand tool manufacturing", 
+                            "size": "39.00"
+                        }, 
+                        {
+                            "name": "Structural metals, and boiler, tank, and shipping container manufacturing", 
+                            "size": "375.00"
+                        }, 
+                        {
+                            "name": "Machine shops; turned product; screw, nut, and bolt manufacturing", 
+                            "size": "300.00"
+                        }, 
+                        {
+                            "name": "Coating, engraving, heat treating and allied activities", 
+                            "size": "67.00"
+                        }, 
+                        {
+                            "name": "Ordnance", 
+                            "size": "49.00"
+                        }, 
+                        {
+                            "name": "Miscellaneous fabricated metal products manufacturing", 
+                            "size": "283.00"
+                        }, 
+                        {
+                            "name": "Not specified metal industries", 
+                            "size": "30.00"
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Machinery manufacturing", 
+                    "children": [
+                        {
+                            "name": "Agricultural implement manufacturing", 
+                            "size": "132.00"
+                        }, 
+                        {
+                            "name": "Construction, and mining and oil and gas field machinery manufacturing", 
+                            "size": "203.00"
+                        }, 
+                        {
+                            "name": "Commercial and service industry machinery manufacturing", 
+                            "size": "72.00"
+                        }, 
+                        {
+                            "name": "Metalworking machinery manufacturing", 
+                            "size": "138.00"
+                        }, 
+                        {
+                            "name": "Engine, turbine, and power transmission equipment manufacturing", 
+                            "size": "61.00"
+                        }, 
+                        {
+                            "name": "Machinery manufacturing, n.e.c.", 
+                            "size": "654.00"
+                        }, 
+                        {
+                            "name": "Not specified machinery manufacturing", 
+                            "size": "10.00"
+                        }, 
+                        {
+                            "name": "Machine shops; turned product; screw, nut, and bolt manufacturing", 
+                            "size": "300.00"
+                        }, 
+                        {
+                            "name": "Coating, engraving, heat treating and allied activities", 
+                            "size": "67.00"
+                        }, 
+                        {
+                            "name": "Ordnance", 
+                            "size": "49.00"
+                        }, 
+                        {
+                            "name": "Miscellaneous fabricated metal products manufacturing", 
+                            "size": "283.00"
+                        }, 
+                        {
+                            "name": "Not specified metal industries", 
+                            "size": "30.00"
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Computers and electronic products manufacturing", 
+                    "children": [
+                        {
+                            "name": "Computer and peripheral equipment manufacturing", 
+                            "size": "212.00"
+                        }, 
+                        {
+                            "name": "Communications, and audio and video equipment manufacturing", 
+                            "size": "127.00"
+                        }, 
+                        {
+                            "name": "Navigational, measuring, electromedical, and control instruments manufacturing", 
+                            "size": "220.00"
+                        }, 
+                        {
+                            "name": "Electronic component and product manufacturing, n.e.c.", 
+                            "size": "612.00"
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Electrical equipment and appliances manufacturing", 
+                    "children": [
+                        {
+                            "name": "Household appliance manufacturing", 
+                            "size": "87.00"
+                        }, 
+                        {
+                            "name": "Electrical lighting and electrical equipment manufacturing, and other electrical component manufacturing, n.e.c.", 
+                            "size": "290.00"
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Transportation equipment manufacturing", 
+                    "children": [
+                        {
+                            "name": "Motor vehicles and motor vehicle equipment manufacturing", 
+                            "size": "1284.00"
+                        }, 
+                        {
+                            "name": "Aircraft and parts manufacturing", 
+                            "size": "734.00"
+                        }, 
+                        {
+                            "name": "Aerospace product and parts manufacturing", 
+                            "size": "102.00"
+                        }, 
+                        {
+                            "name": "Railroad rolling stock manufacturing", 
+                            "size": "39.00"
+                        }, 
+                        {
+                            "name": "Ship and boat building", 
+                            "size": "157.00"
+                        }, 
+                        {
+                            "name": "Other transportation equipment manufacturing", 
+                            "size": "50.00"
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Wood products manufacturing", 
+                    "children": [
+                        {
+                            "name": "Sawmills and wood preservation", 
+                            "size": "119.00"
+                        }, 
+                        {
+                            "name": "Veneer, plywood, and engineered wood products", 
+                            "size": "45.00"
+                        }, 
+                        {
+                            "name": "Prefabricated wood buildings and mobile homes", 
+                            "size": "37.00"
+                        }, 
+                        {
+                            "name": "Miscellaneous wood products", 
+                            "size": "209.00"
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Furniture and related product manufacturing", 
+                    "children": [
+                        {
+                            "name": "Furniture and related product manufacturing", 
+                            "size": "425.00"
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Miscellaneous manufacturing", 
+                    "children": [
+                        {
+                            "name": "Medical equipment and supplies manufacturing", 
+                            "size": "585.00"
+                        }, 
+                        {
+                            "name": "Sporting and athletic goods, and doll, toy and game manufacturing", 
+                            "size": "110.00"
+                        }, 
+                        {
+                            "name": "Miscellaneous manufacturing, n.e.c.", 
+                            "size": "531.00"
+                        }, 
+                        {
+                            "name": "Not specified manufacturing industries", 
+                            "size": "281.00"
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Food manufacturing", 
+                    "children": [
+                        {
+                            "name": "Animal food, grain, and oilseed milling", 
+                            "size": "142.00"
+                        }, 
+                        {
+                            "name": "Sugar and confectionery products", 
+                            "size": "80.00"
+                        }, 
+                        {
+                            "name": "Fruit and vegetable preserving and specialty food manufacturing", 
+                            "size": "173.00"
+                        }, 
+                        {
+                            "name": "Dairy product manufacturing", 
+                            "size": "136.00"
+                        }, 
+                        {
+                            "name": "Animal slaughtering and processing", 
+                            "size": "510.00"
+                        }, 
+                        {
+                            "name": "Retail bakeries", 
+                            "size": "256.00"
+                        }, 
+                        {
+                            "name": "Bakeries and tortilla manufacturing, except retail bakeries", 
+                            "size": "199.00"
+                        }, 
+                        {
+                            "name": "Seafood and other miscellaneous foods, n.e.c.", 
+                            "size": "201.00"
+                        }, 
+                        {
+                            "name": "Not specified food industries", 
+                            "size": "54.00"
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Beverage and tobacco products manufacturing", 
+                    "children": [
+                        {
+                            "name": "Beverage manufacturing", 
+                            "size": "254.00"
+                        }, 
+                        {
+                            "name": "Tobacco manufacturing", 
+                            "size": "28.00"
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Textiles, apparel, and leather manufacturing", 
+                    "children": [
+                        {
+                            "name": "Fiber, yarn, and thread mills", 
+                            "size": "14.00"
+                        }, 
+                        {
+                            "name": "Fabric mills, except knitting mills", 
+                            "size": "109.00"
+                        }, 
+                        {
+                            "name": "Textile and fabric finishing and coating mills", 
+                            "size": "13.00"
+                        }, 
+                        {
+                            "name": "Carpet and rug mills", 
+                            "size": "77.00"
+                        }, 
+                        {
+                            "name": "Textile product mills, except carpet and rug", 
+                            "size": "88.00"
+                        }, 
+                        {
+                            "name": "Knitting fabric mills, and apparel knitting mills", 
+                            "size": "16.00"
+                        }, 
+                        {
+                            "name": "Cut and sew apparel manufacturing", 
+                            "size": "247.00"
+                        }, 
+                        {
+                            "name": "Apparel accessories and other apparel manufacturing", 
+                            "size": "7.00"
+                        }, 
+                        {
+                            "name": "Footwear manufacturing", 
+                            "size": "41.00"
+                        }, 
+                        {
+                            "name": "Leather tanning and finishing and other allied products manufacturing", 
+                            "size": "16.00"
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Paper manufacturing and printing", 
+                    "children": [
+                        {
+                            "name": "Pulp, paper, and paperboard mills", 
+                            "size": "206.00"
+                        }, 
+                        {
+                            "name": "Paperboard container manufacturing", 
+                            "size": "92.00"
+                        }, 
+                        {
+                            "name": "Miscellaneous paper and pulp products", 
+                            "size": "83.00"
+                        }, 
+                        {
+                            "name": "Printing and related support activities", 
+                            "size": "509.00"
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Petroleum and coal products manufacturing", 
+                    "children": [
+                        {
+                            "name": "Petroleum refining", 
+                            "size": "183.00"
+                        }, 
+                        {
+                            "name": "Miscellaneous petroleum and coal products", 
+                            "size": "24.00"
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Chemicals manufacturing", 
+                    "children": [
+                        {
+                            "name": "Resin, synthetic rubber and fibers, and filaments manufacturing", 
+                            "size": "162.00"
+                        }, 
+                        {
+                            "name": "Agricultural chemical manufacturing", 
+                            "size": "37.00"
+                        }, 
+                        {
+                            "name": "Pharmaceutical and medicine manufacturing", 
+                            "size": "521.00"
+                        }, 
+                        {
+                            "name": "Paint, coating, and adhesive manufacturing", 
+                            "size": "71.00"
+                        }, 
+                        {
+                            "name": "Soap, cleaning compound, and cosmetics manufacturing", 
+                            "size": "146.00"
+                        }, 
+                        {
+                            "name": "Industrial and miscellaneous chemicals", 
+                            "size": "430.00"
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Plastics and rubber products manufacturing", 
+                    "children": [
+                        {
+                            "name": "Plastics product manufacturing", 
+                            "size": "372.00"
+                        }, 
+                        {
+                            "name": "Tire manufacturing", 
+                            "size": "56.00"
+                        }, 
+                        {
+                            "name": "Rubber product, except tire, manufacturing", 
+                            "size": "76.00"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "Wholesale and retail trade", 
+            "children": [
+                {
+                    "name": "Wholesale trade", 
+                    "children": [
+                        {
+                            "name": "Motor vehicle and motor vehicle parts and supplies merchant wholesalers", 
+                            "size": "162.00"
+                        }, 
+                        {
+                            "name": "Furniture and home furnishing merchant wholesalers", 
+                            "size": "79.00"
+                        }, 
+                        {
+                            "name": "Lumber and other construction materials merchant wholesalers", 
+                            "size": "171.00"
+                        }, 
+                        {
+                            "name": "Professional and commercial equipment and supplies merchant wholesalers", 
+                            "size": "338.00"
+                        }, 
+                        {
+                            "name": "Metals and minerals, except petroleum merchant wholesalers", 
+                            "size": "53.00"
+                        }, 
+                        {
+                            "name": "Household appliances and electrical and electronic goods merchant wholesalers", 
+                            "size": "217.00"
+                        }, 
+                        {
+                            "name": "Hardware, plumbing and heating equipment, and supplies merchant wholesalers", 
+                            "size": "139.00"
+                        }, 
+                        {
+                            "name": "Machinery, equipment, and supplies merchant wholesalers", 
+                            "size": "368.00"
+                        }, 
+                        {
+                            "name": "Recyclable material merchant wholesalers", 
+                            "size": "102.00"
+                        }, 
+                        {
+                            "name": "Miscellaneous durable goods merchant wholesalers", 
+                            "size": "97.00"
+                        }, 
+                        {
+                            "name": "Paper and paper products merchant wholesalers", 
+                            "size": "54.00"
+                        }, 
+                        {
+                            "name": "Drugs, sundries, and chemical and allied products merchant wholesalers", 
+                            "size": "226.00"
+                        }, 
+                        {
+                            "name": "Apparel, piece goods, and notions merchant wholesalers", 
+                            "size": "121.00"
+                        }, 
+                        {
+                            "name": "Grocery and related product merchant wholesalers", 
+                            "size": "842.00"
+                        }, 
+                        {
+                            "name": "Farm product raw material merchant wholesalers", 
+                            "size": "73.00"
+                        }, 
+                        {
+                            "name": "Petroleum and petroleum products merchant wholesalers", 
+                            "size": "108.00"
+                        }, 
+                        {
+                            "name": "Alcoholic beverages merchant wholesalers", 
+                            "size": "116.00"
+                        }, 
+                        {
+                            "name": "Farm supplies merchant wholesalers", 
+                            "size": "61.00"
+                        }, 
+                        {
+                            "name": "Miscellaneous nondurable goods merchant wholesalers", 
+                            "size": "184.00"
+                        }, 
+                        {
+                            "name": "Wholesale electronic markets and agents and brokers", 
+                            "size": "66.00"
+                        }, 
+                        {
+                            "name": "Not specified wholesale trade", 
+                            "size": "57.00"
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Retail trade", 
+                    "children": [
+                        {
+                            "name": "Automobile dealers", 
+                            "size": "1321.00"
+                        }, 
+                        {
+                            "name": "Other motor vehicle dealers", 
+                            "size": "153.00"
+                        }, 
+                        {
+                            "name": "Automotive parts, accessories, and tire stores", 
+                            "size": "530.00"
+                        }, 
+                        {
+                            "name": "Furniture and home furnishings stores", 
+                            "size": "554.00"
+                        }, 
+                        {
+                            "name": "Household appliance stores", 
+                            "size": "65.00"
+                        }, 
+                        {
+                            "name": "Electronics stores", 
+                            "size": "588.00"
+                        }, 
+                        {
+                            "name": "Building material and supplies dealers", 
+                            "size": "982.00"
+                        }, 
+                        {
+                            "name": "Hardware stores", 
+                            "size": "199.00"
+                        }, 
+                        {
+                            "name": "Lawn and garden equipment and supplies stores", 
+                            "size": "267.00"
+                        }, 
+                        {
+                            "name": "Grocery stores", 
+                            "size": "2784.00"
+                        }, 
+                        {
+                            "name": "Specialty food stores", 
+                            "size": "249.00"
+                        }, 
+                        {
+                            "name": "Beer, wine, and liquor stores", 
+                            "size": "137.00"
+                        }, 
+                        {
+                            "name": "Pharmacies and drug stores", 
+                            "size": "913.00"
+                        }, 
+                        {
+                            "name": "Health and personal care, except drug, stores", 
+                            "size": "395.00"
+                        }, 
+                        {
+                            "name": "Gasoline stations", 
+                            "size": "533.00"
+                        }, 
+                        {
+                            "name": "Clothing stores", 
+                            "size": "1055.00"
+                        }, 
+                        {
+                            "name": "Shoe stores", 
+                            "size": "177.00"
+                        }, 
+                        {
+                            "name": "Jewelry, luggage, and leather goods stores", 
+                            "size": "183.00"
+                        }, 
+                        {
+                            "name": "Sporting goods, and hobby and toy stores", 
+                            "size": "499.00"
+                        }, 
+                        {
+                            "name": "Sewing, needlework, and piece goods stores", 
+                            "size": "63.00"
+                        }, 
+                        {
+                            "name": "Musical instrument and supplies stores", 
+                            "size": "43.00"
+                        }, 
+                        {
+                            "name": "Book stores and news dealers", 
+                            "size": "112.00"
+                        }, 
+                        {
+                            "name": "Department stores and discount stores", 
+                            "size": "2090.00"
+                        }, 
+                        {
+                            "name": "Miscellaneous general merchandise stores", 
+                            "size": "569.00"
+                        }, 
+                        {
+                            "name": "Retail florists", 
+                            "size": "100.00"
+                        }, 
+                        {
+                            "name": "Office supplies and stationery stores", 
+                            "size": "153.00"
+                        }, 
+                        {
+                            "name": "Used merchandise stores", 
+                            "size": "272.00"
+                        }, 
+                        {
+                            "name": "Gift, novelty, and souvenir shops", 
+                            "size": "108.00"
+                        }, 
+                        {
+                            "name": "Miscellaneous retail stores", 
+                            "size": "472.00"
+                        }, 
+                        {
+                            "name": "Electronic shopping", 
+                            "size": "285.00"
+                        }, 
+                        {
+                            "name": "Electronic auctions", 
+                            "size": "29.00"
+                        }, 
+                        {
+                            "name": "Mail-order houses", 
+                            "size": "85.00"
+                        }, 
+                        {
+                            "name": "Vending machine operators", 
+                            "size": "57.00"
+                        }, 
+                        {
+                            "name": "Fuel dealers", 
+                            "size": "83.00"
+                        }, 
+                        {
+                            "name": "Other direct selling establishments", 
+                            "size": "171.00"
+                        }, 
+                        {
+                            "name": "Not specified retail trade", 
+                            "size": "407.00"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "Transportation and utilities", 
+            "children": [
+                {
+                    "name": "Transportation and warehousing", 
+                    "children": [
+                        {
+                            "name": "Air transportation", 
+                            "size": "539.00"
+                        }, 
+                        {
+                            "name": "Rail transportation", 
+                            "size": "246.00"
+                        }, 
+                        {
+                            "name": "Water transportation", 
+                            "size": "68.00"
+                        }, 
+                        {
+                            "name": "Truck transportation", 
+                            "size": "2018.00"
+                        }, 
+                        {
+                            "name": "Bus service and urban transit", 
+                            "size": "481.00"
+                        }, 
+                        {
+                            "name": "Taxi and limousine service", 
+                            "size": "337.00"
+                        }, 
+                        {
+                            "name": "Pipeline transportation", 
+                            "size": "49.00"
+                        }, 
+                        {
+                            "name": "Scenic and sightseeing transportation", 
+                            "size": "31.00"
+                        }, 
+                        {
+                            "name": "Services incidental to transportation", 
+                            "size": "819.00"
+                        }, 
+                        {
+                            "name": "Postal Service", 
+                            "size": "658.00"
+                        }, 
+                        {
+                            "name": "Couriers and messengers", 
+                            "size": "748.00"
+                        }, 
+                        {
+                            "name": "Warehousing and storage", 
+                            "size": "465.00"
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Utilities", 
+                    "children": [
+                        {
+                            "name": "Electric power generation, transmission, and distribution", 
+                            "size": "661.00"
+                        }, 
+                        {
+                            "name": "Natural gas distribution", 
+                            "size": "128.00"
+                        }, 
+                        {
+                            "name": "Electric and gas, and other combinations", 
+                            "size": "85.00"
+                        }, 
+                        {
+                            "name": "Water, steam, air-conditioning, and irrigation systems", 
+                            "size": "270.00"
+                        }, 
+                        {
+                            "name": "Sewage treatment facilities", 
+                            "size": "92.00"
+                        }, 
+                        {
+                            "name": "Not specified utilities", 
+                            "size": "31.00"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "Information", 
+            "children": [
+                {
+                    "name": "Newspaper publishers", 
+                    "size": "191.00"
+                }, 
+                {
+                    "name": "Periodical, book, and directory publishers", 
+                    "size": "264.00"
+                }, 
+                {
+                    "name": "Software publishers", 
+                    "size": "91.00"
+                }, 
+                {
+                    "name": "Motion pictures and video industries", 
+                    "size": "398.00"
+                }, 
+                {
+                    "name": "Sound recording industries", 
+                    "size": "53.00"
+                }, 
+                {
+                    "name": "Radio and television broadcasting and cable subscription programming", 
+                    "size": "593.00"
+                }, 
+                {
+                    "name": "Internet publishing and broadcasting and web search portals", 
+                    "size": "114.00"
+                }, 
+                {
+                    "name": "Wired telecommunications carriers", 
+                    "size": "502.00"
+                }, 
+                {
+                    "name": "Other telecommunications services", 
+                    "size": "430.00"
+                }, 
+                {
+                    "name": "Data processing, hosting, and related services", 
+                    "size": "104.00"
+                }, 
+                {
+                    "name": "Libraries and archives", 
+                    "size": "196.00"
+                }, 
+                {
+                    "name": "Other information services", 
+                    "size": "50.00"
+                }
+            ]
+        }, 
+        {
+            "name": "Financial activities", 
+            "children": [
+                {
+                    "name": "Finance and insurance", 
+                    "children": [
+                        {
+                            "name": "Banking and related activities", 
+                            "size": "2051.00"
+                        }, 
+                        {
+                            "name": "Savings institutions, including credit unions", 
+                            "size": "220.00"
+                        }, 
+                        {
+                            "name": "Nondepository credit and related activities", 
+                            "size": "998.00"
+                        }, 
+                        {
+                            "name": "Securities, commodities, funds, trusts, and other financial investments", 
+                            "size": "1082.00"
+                        }, 
+                        {
+                            "name": "Insurance carriers and related activities", 
+                            "size": "2730.00"
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Real estate and rental and leasing", 
+                    "children": [
+                        {
+                            "name": "Real estate", 
+                            "size": "2617.00"
+                        }, 
+                        {
+                            "name": "Automotive equipment rental and leasing", 
+                            "size": "174.00"
+                        }, 
+                        {
+                            "name": "Video tape and disk rental", 
+                            "size": "11.00"
+                        }, 
+                        {
+                            "name": "Other consumer goods rental", 
+                            "size": "92.00"
+                        }, 
+                        {
+                            "name": "Commercial, industrial, and other intangible assets rental and leasing", 
+                            "size": "111.00"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "Professional and business services", 
+            "children": [
+                {
+                    "name": "Professional and technical services", 
+                    "children": [
+                        {
+                            "name": "Legal services", 
+                            "size": "1595.00"
+                        }, 
+                        {
+                            "name": "Accounting, tax preparation, bookkeeping, and payroll services", 
+                            "size": "1095.00"
+                        }, 
+                        {
+                            "name": "Architectural, engineering, and related services", 
+                            "size": "1521.00"
+                        }, 
+                        {
+                            "name": "Specialized design services", 
+                            "size": "395.00"
+                        }, 
+                        {
+                            "name": "Computer systems design and related services", 
+                            "size": "2542.00"
+                        }, 
+                        {
+                            "name": "Management, scientific, and technical consulting services", 
+                            "size": "1554.00"
+                        }, 
+                        {
+                            "name": "Scientific research and development services", 
+                            "size": "572.00"
+                        }, 
+                        {
+                            "name": "Advertising, public relations, and related services", 
+                            "size": "559.00"
+                        }, 
+                        {
+                            "name": "Veterinary services", 
+                            "size": "349.00"
+                        }, 
+                        {
+                            "name": "Other professional, scientific, and technical services", 
+                            "size": "443.00"
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Management, administrative, and waste services", 
+                    "children": [
+                        {
+                            "name": "Management of companies and enterprises", 
+                            "size": "193.00"
+                        }, 
+                        {
+                            "name": "Employment services", 
+                            "size": "978.00"
+                        }, 
+                        {
+                            "name": "Business support services", 
+                            "size": "803.00"
+                        }, 
+                        {
+                            "name": "Travel arrangements and reservation services", 
+                            "size": "299.00"
+                        }, 
+                        {
+                            "name": "Investigation and security services", 
+                            "size": "782.00"
+                        }, 
+                        {
+                            "name": "Services to buildings and dwellings", 
+                            "size": "1518.00"
+                        }, 
+                        {
+                            "name": "Landscaping services", 
+                            "size": "1356.00"
+                        }, 
+                        {
+                            "name": "Other administrative and other support services", 
+                            "size": "300.00"
+                        }, 
+                        {
+                            "name": "Waste management and remediation services", 
+                            "size": "552.00"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "Education and health services", 
+            "children": [
+                {
+                    "name": "Educational services", 
+                    "children": [
+                        {
+                            "name": "Elementary and secondary schools", 
+                            "size": "8892.00"
+                        }, 
+                        {
+                            "name": "Colleges, universities, and professional schools, including junior colleges", 
+                            "size": "3792.00"
+                        }, 
+                        {
+                            "name": "Business, technical, and trade schools and training", 
+                            "size": "107.00"
+                        }, 
+                        {
+                            "name": "Other schools and instruction, and educational support services", 
+                            "size": "811.00"
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Health care and social assistance", 
+                    "children": [
+                        {
+                            "name": "Hospitals", 
+                            "size": "6698.00"
+                        }, 
+                        {
+                            "name": "Offices of physicians", 
+                            "size": "1678.00"
+                        }, 
+                        {
+                            "name": "Offices of dentists", 
+                            "size": "895.00"
+                        }, 
+                        {
+                            "name": "Offices of chiropractors", 
+                            "size": "152.00"
+                        }, 
+                        {
+                            "name": "Offices of optometrists", 
+                            "size": "141.00"
+                        }, 
+                        {
+                            "name": "Offices of other health practitioners", 
+                            "size": "334.00"
+                        }, 
+                        {
+                            "name": "Outpatient care centers", 
+                            "size": "1623.00"
+                        }, 
+                        {
+                            "name": "Home health care services", 
+                            "size": "1379.00"
+                        }, 
+                        {
+                            "name": "Other health care services", 
+                            "size": "1331.00"
+                        }, 
+                        {
+                            "name": "Nursing care facilities (skilled nursing facilities)", 
+                            "size": "1830.00"
+                        }, 
+                        {
+                            "name": "Residential care facilities, except skilled nursing facilities", 
+                            "size": "802.00"
+                        }, 
+                        {
+                            "name": "Individual and family services", 
+                            "size": "1493.00"
+                        }, 
+                        {
+                            "name": "Community food and housing, and emergency services", 
+                            "size": "113.00"
+                        }, 
+                        {
+                            "name": "Vocational rehabilitation services", 
+                            "size": "115.00"
+                        }, 
+                        {
+                            "name": "Child day care services", 
+                            "size": "1492.00"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "Leisure and hospitality", 
+            "children": [
+                {
+                    "name": "Arts, entertainment, and recreation", 
+                    "children": [
+                        {
+                            "name": "Independent artists, performing arts, spectator sports, and related industries", 
+                            "size": "879.00"
+                        }, 
+                        {
+                            "name": "Museums, art galleries, historical sites, and similar institutions", 
+                            "size": "353.00"
+                        }, 
+                        {
+                            "name": "Bowling centers", 
+                            "size": "39.00"
+                        }, 
+                        {
+                            "name": "Other amusement, gambling, and recreation industries", 
+                            "size": "1913.00"
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Accommodation and food services", 
+                    "children": [
+                        {
+                            "name": "Traveler accommodation", 
+                            "size": "1481.00"
+                        }, 
+                        {
+                            "name": "Recreational vehicle parks and camps, and rooming and boarding houses", 
+                            "size": "91.00"
+                        }, 
+                        {
+                            "name": "Restaurants and other food services", 
+                            "size": "8835.00"
+                        }, 
+                        {
+                            "name": "Drinking places, alcoholic beverages", 
+                            "size": "231.00"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "name": "Other services", 
+            "children": [
+                {
+                    "name": "Repair and maintenence", 
+                    "children": [
+                        {
+                            "name": "Automotive repair and maintenance", 
+                            "size": "1275.00"
+                        }, 
+                        {
+                            "name": "Car washes", 
+                            "size": "167.00"
+                        }, 
+                        {
+                            "name": "Electronic and precision equipment repair and maintenance", 
+                            "size": "141.00"
+                        }, 
+                        {
+                            "name": "Commercial and industrial machinery and equipment repair and maintenance", 
+                            "size": "328.00"
+                        }, 
+                        {
+                            "name": "Personal and household goods repair and maintenance", 
+                            "size": "200.00"
+                        }, 
+                        {
+                            "name": "Footwear and leather goods repair", 
+                            "size": "1.00"
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Personal and laundry services", 
+                    "children": [
+                        {
+                            "name": "Barber shops", 
+                            "size": "115.00"
+                        }, 
+                        {
+                            "name": "Beauty salons", 
+                            "size": "908.00"
+                        }, 
+                        {
+                            "name": "Nail salons and other personal care services", 
+                            "size": "496.00"
+                        }, 
+                        {
+                            "name": "Drycleaning and laundry services", 
+                            "size": "255.00"
+                        }, 
+                        {
+                            "name": "Funeral homes, and cemeteries and crematories", 
+                            "size": "129.00"
+                        }, 
+                        {
+                            "name": "Other personal services", 
+                            "size": "429.00"
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Membership associations and organizations", 
+                    "children": [
+                        {
+                            "name": "Religious organizations", 
+                            "size": "1093.00"
+                        }, 
+                        {
+                            "name": "Civic, social, advocacy organizations, and grantmaking and giving services", 
+                            "size": "717.00"
+                        }, 
+                        {
+                            "name": "Labor unions", 
+                            "size": "66.00"
+                        }, 
+                        {
+                            "name": "Business, professional, political, and similar organizations", 
+                            "size": "144.00"
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Private households", 
+                    "size": "798.00"
+                }
+            ]
+        }, 
+        {
+            "name": "Public administration", 
+            "children": [
+                {
+                    "name": "Executive offices and legislative bodies", 
+                    "size": "1000.00"
+                }, 
+                {
+                    "name": "Public finance activities", 
+                    "size": "322.00"
+                }, 
+                {
+                    "name": "Other general government and support", 
+                    "size": "138.00"
+                }, 
+                {
+                    "name": "Justice, public order, and safety activities", 
+                    "size": "2856.00"
+                }, 
+                {
+                    "name": "Administration of human resource programs", 
+                    "size": "1000.00"
+                }, 
+                {
+                    "name": "Administration of environmental quality and housing programs", 
+                    "size": "260.00"
+                }, 
+                {
+                    "name": "Administration of economic programs and space research", 
+                    "size": "554.00"
+                }, 
+                {
+                    "name": "National security and international affairs", 
+                    "size": "799.00"
+                }
+            ]
+        }
+    ]
+}
